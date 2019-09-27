@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT projectRecord (denominacao,cabecalho,grupo,descricao,documentos,data)>
+<!ELEMENT denominacao (#PCDATA)>
+<!ELEMENT cabecalho (chave,titulo,subtitulo,dataInicio,dataFim,docente)>
+<!ELEMENT chave (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT subtitulo (#PCDATA)>
+<!ELEMENT dataInicio (#PCDATA)>
+<!ELEMENT dataFim (#PCDATA)>
+<!ELEMENT docente (#PCDATA)>
+<!ELEMENT grupo (elemento)+>
+<!ELEMENT elemento (nome,email,github)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT github (#PCDATA)>
+<!ELEMENT descricao (#PCDATA|ficheiro)*>
+<!ELEMENT ficheiro (#PCDATA)>
+<!ELEMENT documentos (documento)+>
+<!ELEMENT documento (#PCDATA)>
+<!ELEMENT data (#PCDATA)>
+
+<!ATTLIST docente
+            email CDATA #REQUIRED>
+<!ATTLIST email
+            link CDATA #REQUIRED>
+<!ATTLIST github
+            link CDATA #REQUIRED>
+<!ATTLIST ficheiro
+            ident IDREF #REQUIRED>
+<!ATTLIST documento
+            ident ID #REQUIRED
+            link CDATA #REQUIRED>

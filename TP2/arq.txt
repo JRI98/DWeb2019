@@ -1,0 +1,3 @@
+/ARQSITS/ARQELEM/IDENTI[contains(../CONCEL, 'Amares')]
+distinct-values(/ARQSITS/ARQELEM/normalize-space(CONCEL))
+/ARQSITS/ARQELEM/DESCRI[../contains(CONCEL, 'Montalegre')]

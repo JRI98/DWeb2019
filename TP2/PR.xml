@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE projectRecord SYSTEM ".\PR.dtd">
+<projectRecord>
+    <denominacao>Project Record for TP2</denominacao>
+    <cabecalho>
+        <chave>TP2</chave>
+        <titulo>Aprofundamento de XML, DTD e XPath</titulo>
+        <subtitulo>Trabalho inserido nos TPC da UC Desenvolvimento de Aplicações Web</subtitulo>
+        <dataInicio>24-09-2019</dataInicio>
+        <dataFim>01-10-2019</dataFim>
+        <docente email="mailto:jcr@di.uminho.pt">José Carlos Ramalho</docente>
+    </cabecalho>
+    <grupo>
+        <elemento>
+            <nome>João Ribeiro Imperadeiro</nome>
+            <email link="mailto:pg41080@alunos.uminho.pt">pg41080@alunos.uminho.pt</email>
+            <github link="https://github.com/JRI98">JRI98</github>
+        </elemento>
+    </grupo>
+    <descricao>
+        Este trabalho consistiu em duas partes distintas:
+        - Por um lado, foi definida uma
+        <ficheiro ident="prDTD">DTD</ficheiro>
+        que validasse o presente
+        <ficheiro ident="prXML">documento</ficheiro>
+        ;
+        - Por outro, foi feita a resolução dos exercícios
+        <ficheiro ident="arqTXT">6</ficheiro>
+        e
+        <ficheiro ident="arqDTD">7</ficheiro>
+        da ficha 3 fornecida pelo docente.
+        O exercício 6 consistia em escrever expressões XPath para obter diversos elementos de um dado ficheiro XML.
+        O exercício 7 pedia-nos para definir uma DTD que validasse esse mesmo ficheiro.
+    </descricao>
+    <documentos>
+        <documento ident="prXML" link="PR.xml">Documento Atual</documento>
+        <documento ident="prDTD" link="PR.dtd">DTD para Validar Project Records (onde se inclui o presente documento)</documento>
+        <documento ident="arqTXT" link="arq.txt">Respostas ao exercício 6 da ficha</documento>
+        <documento ident="arqDTD" link="arq.dtd">DTD para Validar o Ficheiro arq.xml</documento>
+    </documentos>
+    <data>
+        01-10-2019
+    </data>
+</projectRecord>
