@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pr>
+    <metadata>
+        <keyname>TP3</keyname>
+        <title>Transformação de documentos XML com XSL</title>
+        <subtitle>Trabalho prático 3 dos TPC de Desenvolvimento de Aplicações Web</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+        <bdate>01/10/2019</bdate>
+        <edate>08/10/2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>JRI</identifier>
+            <name>João Ribeiro Imperadeiro</name>
+            <email>pg41080@alunos.uminho.pt</email>
+            <git>https://github.com/JRI98</git>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho consistiu na realização de duas tarefas:
+        </p>
+        <p>
+            <u>1ª</u>
+            Criar um transformador em
+            <i>XSL</i>
+            para processar o presente documento;
+        </p>
+        <p>
+            <u>2ª</u>
+            Criar um transformador para processar o ficheiro
+            <i>XML</i>
+            dos arqueossítios (disponível
+            <xref url="http://www4.di.uminho.pt/~jcr/XML/didac/xmldocs/arq.xml">aqui</xref>
+            ).
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">Project Record deste TPC</deliverable>
+        <deliverable path="pr.xsl">Transformador do Project Record para Página Web</deliverable>
+        <deliverable path="pr.html">Documento HTML Geardo deste Project Record</deliverable>
+        <deliverable path="arq.xsl">Transformador do Ficheiro dos Arqueossítios para Website</deliverable>
+        <deliverable path="website/">Ficheiros Correspondentes ao Website dos Arqueossítios</deliverable>
+    </deliverables>
+</pr>
