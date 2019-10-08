@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Vilela </IDENTI>
+		<DESCRI>
+			   <LIGA TERMO="miliï¿½rio"> Miliï¿½rios</LIGA>
+		</DESCRI>
+		<CRONO>Romanizaï¿½ï¿½o</CRONO>
+		<LUGAR> Perto do lugar de Vilela </LUGAR>
+		<FREGUE> Vilela </FREGUE>
+		<CONCEL> Amares </CONCEL>
+		<CODADM> 030124 </CODADM>
+		<LATITU> 521,8 </LATITU>
+		<LONGIT> 184,6 </LONGIT>
+		<ALTITU> 223m </ALTITU>
+		<ACESSO> Um dos <LIGA TERMO="miliï¿½rio"> miliï¿½rios</LIGA> encontra-se tombado
+na valeta do C.M. 1236, perto do lugar de Vilela. O outro estï¿½ encostado ao
+muro do adro da igreja desta freguesia. </ACESSO>
+		<QUADRO> Desconhece-se o local exacto onde foram descobertos. </QUADRO>
+		<DESARQ> O <LIGA TERMO="miliï¿½rio"> miliï¿½rio</LIGA> tombado tem cerca de
+1,50m de altura e nï¿½o apresenta vestï¿½gios de epï¿½grafe. O que se encontra
+junto ï¿½ igreja ï¿½ um monumento catalogado de sï¿½rie Capela (CIL II , 4798/ 99
+= EE, VIII, 224). Estï¿½ fragmentado e conserva apenas a parte final da
+inscriï¿½ï¿½o. A reconstituiï¿½ï¿½o da leitura foi feita com base noutros <LIGA TERMO="miliï¿½rio"> miliï¿½rios</LIGA>, dos mesmos imperadores, existentes na
+mesma via. Altura: 140; diï¿½metro: 55; letras: 7 e 8.
+
+[IMP(eratore) TITO CAESARE DIVI VESP(asiani) F(ilio) VESPASIANO AVG(usto)
+PONT(tifice) MAX(imo) TRIB(unicia) POT(estate) IX (nona) IMP(eratore) XV
+(decimum quintum) P(atre) P(atriae) CO(n)S(ule) VIII (octavum) [ET] CAESARE
+DIVI VESP(asiani) F(ilio) [DOMITIANO] CO(n)S(ule) VII (septimum) / G(aio)
+CALPETANO RANTIO / QVIRINALE VA(lerio) / FESTO LEG(ato) AVG(usti)
+[PROPR(aetore)] / A BRACARA M(ilia) P(assuum) XIII (tredecim).
+
+Sendo Imperador Tito Cï¿½sar Vespasiano, filho do divino Vespasiano, Augusto,
+Pontï¿½fice Mï¿½ximo, no seu nono poder tribunï¿½cio, saudado imperador quinze
+vezes, pai da pï¿½tria, oito vezes cï¿½nsul, e Cï¿½sar (Domiciano), filho do
+divino Vespasiano, sete vezes cï¿½nsul, sendo legado de Augusto e Propretor
+Caio Calpetano Rï¿½ncio Quirinal Valï¿½rio Festo. De Braga sï¿½o treze
+milhas.</DESARQ>
+		<INTERP>
+			   <LIGA TERMO="miliï¿½rio"> Miliï¿½rio</LIGA> da Via Nova (Geira) de Tito
+e Domiciano, datado de 79-81.</INTERP>
+		<BIBLIO> VIEIRA, J. A.(1886-87). O Minho Pitoresco, Lisboa, 2 vols. pp.437.
+CAPELA, M. (1895). Miliï¿½rios do Conventus Bracaraugustanus em Portugal,
+Porto. pp. 60, 105. </BIBLIO>
+		<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histï¿½rico e Romanizaï¿½ï¿½o da
+Bacia do Curso do Mï¿½dio Cï¿½vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 71-72. </BIBLIO>
+		<AUTOR> Manuela Martins</AUTOR>
+		<DATA>04-FEV-1998</DATA>
+	</ARQELEM>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> S. Miguel-o-Anjo </IDENTI>
+		<DESCRI> Aras; <LIGA TERMO="miliï¿½rio"> Miliï¿½rio</LIGA>
+		</DESCRI>
+		<CRONO> Romanizaï¿½ï¿½o </CRONO>
+		<LUGAR> S. Miguel-o-Anjo </LUGAR>
+		<FREGUE> Prozelo </FREGUE>
+		<CONCEL> Amares </CONCEL>
+		<CODADM> 030117 </CODADM>
+		<LATITU> 517,1 </LATITU>
+		<LONGIT> 180,4 </LONGIT>
+		<ALTITU> 85m </ALTITU>
+		<QUADRO>Procedentes do lugar de S. Miguel-o-Anjo, junto ï¿½ capela do Anjo da Guarda,
+sï¿½o conhecidas duas <LIGA TERMO="ara"> aras</LIGA>. No largo da capela
+existe ainda um <LIGA TERMO="miliï¿½rio"> miliï¿½rio</LIGA>, que serve de
+cruzeiro e que se encontra deslocado. </QUADRO>
+		<DESARQ>Ara 1: ara em granito anepï¿½grafa. Encontra-se actualmente recolhida na
+capela. Quer a parte superior, quer a inferior sï¿½o molduradas: a superior,
+por uma sï¿½rie de cinco <LIGA TERMO="friso"> frisos</LIGA>; a inferior possui
+apenas dois. Em cima observam-se vestï¿½gios do foculus. Dimensï¿½es:
+60x26x20(31); campo epigrï¿½fico: 25x26.
+
+Ara 2: ara em granito, com inscriï¿½ï¿½o. Encontra-se no Museu dos Biscainhos,
+em Braga. A peï¿½a estï¿½ bastante degradada. O seu lado direito foi alterado
+provavelmente por uma reutilizaï¿½ï¿½o. Na parte superior sï¿½o visï¿½veis restos do
+foculus. Em baixo, existem vestï¿½gios de um soco, sob duas molduras que orlam
+a parte inferior da peï¿½a. Dimensï¿½es: 81,5x27x26; campo epigrï¿½fico: 41x23,5;
+letras: 5,5.
+
+.../ CAND / EBERO / NIO CA / EDVRA / DIO
+
+A Candeberï¿½nio Cedurï¿½dio
+ </DESARQ>
+		<INTERP> O monumento parece dedicado a uma divindade indï¿½gena de origem
+cï¿½ltica, sendo provavelmente do sï¿½culo I.</INTERP>
+		<DEPOSI> Ara 2 - Museu dos Biscainhos.</DEPOSI>
+		<BIBLIO> LE ROUX, P. e A. Tranoy (1973). Rome et les indigï¿½nes dans le NO de
+la Pï¿½ninsule Ibï¿½rique. Problï¿½mes d`epigraphie et d`histoire, Mï¿½langes de la
+Casa Velï¿½zquez, Paris, 9, pp. 249-258. </BIBLIO>
+		<BIBLIO> TRANOY, A. (1981). La Galice Romaine. Recherchesur le Nord-Ouest de
+la Pï¿½ninsula Ibï¿½rique dans l`Antiquitï¿½, Diffusion du Boccard, Paris.</BIBLIO>
+		<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histï¿½rico e a Romanizaï¿½ï¿½o da
+Bacia do Curso do Mï¿½dio Cï¿½vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 70. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-FEV-1998</DATA>
+	</ARQELEM>

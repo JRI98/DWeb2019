@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Castelhï¿½o </IDENTI>
+		<DESCRI>
+			   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO> Proto-Histï¿½ria</CRONO>
+		<LUGAR> Castelhï¿½o</LUGAR>
+		<FREGUE> Barbudo </FREGUE>
+		<CONCEL> Vila Verde </CONCEL>
+		<CODADM> 031306 </CODADM>
+		<LATITU> 520,4 </LATITU>
+		<LONGIT> 172,9 </LONGIT>
+		<ALTITU> 200m </ALTITU>
+		<ACESSO>O acesso a este povoado pode fazer-se a partir do lugar de Barbudo.</ACESSO>
+		<QUADRO>O povoado ocupa um pequeno outeiro, localizado na base da vertente SE do
+Monte do Barbudo. Apesar da sua baixa altitude domina uma extensa ï¿½rea do
+vale.</QUADRO>
+		<TRAARQ>Nï¿½o sï¿½o conhecidos trabalhos arqueolï¿½gicos no local.</TRAARQ>
+		<DESARQ>O monte possui boas defesas naturais asseguradas pelo escarpado das suas
+vertentes. Nos lados oeste e noroeste conservam-se ainda vestï¿½gios de
+fossos, bem como restos de fortificaï¿½ï¿½es que asseguravam a defesa desses
+sectores do povoado. Na superfï¿½cie do cabeï¿½o encontram-se fragmentos de
+cerï¿½mica e algumas pedras trabalhadas, que deixam adivinhar a existï¿½ncia de
+construï¿½ï¿½es nas plataformas. No entanto, nï¿½o se observam quaisquer
+alinhamentos coerentes.</DESARQ>
+		<INTERP>
+			   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+proto-histï¿½rico.</INTERP>
+		<BIBLIO> CUNHA, A. R.(1975a). Trepando aos montes, O Distrito de Braga, 1
+(3-4), Braga, pp. 530. </BIBLIO>
+		<BIBLIO> MARTINS, M. (1990). O Povoamento Proto-Histï¿½rico e a Romanizaï¿½ï¿½o da
+Bacia do Curso Mï¿½dio do Cï¿½vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 96. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-FEV-1998</DATA>
+	</ARQELEM>

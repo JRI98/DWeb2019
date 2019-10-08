@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARQELEM>
+		<TIPO ASSUNTO="arqueossitio"/>
+		<IDENTI> Castro das Caldas </IDENTI>
+		<DESCRI>
+			   <LIGA TERMO="povoado fortificado romanizado"> Povoado fortificado</LIGA>
+		</DESCRI>
+		<CRONO> Proto-Histï¿½ria / Romanizaï¿½ï¿½o</CRONO>
+		<LUGAR> Monte das Caldas; Monte de S. Mamede </LUGAR>
+		<FREGUE> Gondizalves </FREGUE>
+		<CONCEL> Braga </CONCEL>
+		<CODADM> 030318 </CODADM>
+		<LATITU> 507,8 </LATITU>
+		<LONGIT> 171,9 </LONGIT>
+		<ALTITU> 304m </ALTITU>
+		<ACESSO>O acesso a este povoado pode fazer-se, por caminho carreteiro, a partir de
+Gondizalves, ou Sequeira.</ACESSO>
+		<QUADRO>O Castro das Caldas localiza-se a NO de Braga, no monte do mesmo nome,
+outrora tambï¿½m conhecido por Monte de S. Mamede. O cabeï¿½o corresponde a uma
+elevaï¿½ï¿½o de altitude mï¿½dia, formando um pequeno esporï¿½o. O povoado ocupa o
+extremo Sudeste dessse esporï¿½o.</QUADRO>
+		<TRAARQ>Nï¿½o sï¿½o conhecidos trabalhos arqueolï¿½gicos no local.</TRAARQ>
+		<DESARQ>O povoado estï¿½ bastante destruï¿½do, sobretudo nos lados Oeste e Sudoeste,
+onde existe uma grande pedreira. ï¿½ ainda possï¿½vel reconhecer vestï¿½gios de
+trï¿½s linhas de muralhas, definidas por taludes, que delimitariam trï¿½s
+plataformas. Na parte mais alta do monte sï¿½o visï¿½veis restos de estruturas
+circulares e rectangulares, bastante arruinadas. Na superfï¿½cie do povoado
+recolhem-se fragmentos de <LIGA TERMO="cerï¿½mica indï¿½gena"> cerï¿½mica
+indï¿½gena</LIGA>, de fabrico <LIGA TERMO="micï¿½ceo"> micï¿½ceo</LIGA> e de <LIGA TERMO="tï¿½gula"> tï¿½gulas</LIGA>, que permitem admitir a sua <LIGA TERMO="romanizaï¿½ï¿½o"> romanizaï¿½ï¿½o</LIGA>.</DESARQ>
+		<INTERP>
+			   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+romanizado.</INTERP>
+		<DEPOSI>Museu Pio XII.</DEPOSI>
+		<BIBLIO> BELLINO, A. (1909), Cidades mortas, Arqueï¿½logo Portuguï¿½s, 14,
+pp.18-19; </BIBLIO>
+		<BIBLIO>TEIXEIRA, C. (1955-56). Subsï¿½dios para o estudo da arqueologia bracarense-I.
+O Monte do Castro (Castrum Maximum), Anais da Faculdade de Ciï¿½ncias do
+Porto, Porto, 21 (4), pp.6. </BIBLIO>
+		<BIBLIO> CUNHA, A. R. (1975a). Trepando aos Montes, O Distrito de Braga, 1
+(3-4), Braga, pp.499-500. </BIBLIO>
+		<BIBLIO> MARTINS, M. (1990). O Povoamento Proto-Histï¿½rico e a Romanizaï¿½ï¿½o da
+Bacia do Curso Mï¿½dio Cï¿½vado, Cadernos de Arqueologia - Monografias,
+Univerisdade do Minho, Braga, pp. 83/84. </BIBLIO>
+		<AUTOR> Manuela Martins </AUTOR>
+		<DATA>04-Fev-1998</DATA>
+	</ARQELEM>
