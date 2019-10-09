@@ -1,80 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI>Castelo de Castro Laboreiro </IDENTI>
 		<DESCRI/>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Castro Laboreiro </LUGAR>
 		<FREGUE> Castro Laboreiro </FREGUE>
-		<CONCEL> Melgaï¿½o </CONCEL>
+		<CONCEL> Melgaço </CONCEL>
 		<CODADM> 160302 </CODADM>
 		<LATITU> 562,6 </LATITU>
 		<LONGIT> 198,1 </LONGIT>
 		<ALTITU>1000m </ALTITU>
-		<ACESSO>O acesso ao castelo faz-se a pï¿½ (cerca de 15 minutos), por caminho
+		<ACESSO>O acesso ao castelo faz-se a pé (cerca de 15 minutos), por caminho
 carreteiro que leva directamente da vila ao alto do monte onde se implanta o
 castelo. A
-Castro Laboreiro chega-se pela estrada EN.202 e 202-3. O monumento estï¿½ mal
+Castro Laboreiro chega-se pela estrada EN.202 e 202-3. O monumento está mal
 sinalizado.</ACESSO>
 		<DESARQ>
-Castro Laboreiro foi, desde os sï¿½culos centrais da Idade Mï¿½dia, sede de
-concelho, recebendo em 1513 foral novo dado pelo rei Manuel I. Regiï¿½o
-perifï¿½rica e fronteiriï¿½a, ainda hoje conserva, apresentando embora um quadro
+Castro Laboreiro foi, desde os séculos centrais da Idade Média, sede de
+concelho, recebendo em 1513 foral novo dado pelo rei Manuel I. Região
+periférica e fronteiriça, ainda hoje conserva, apresentando embora um quadro
 territorial-administrativo distinto, uma forte identidade cultural. O seu
-castelo foi sempre garante e sï¿½mbolo da manutenï¿½ï¿½o das integridade
+castelo foi sempre garante e símbolo da manutenção das integridade
 territorial e soberania nacionais, tanto nos tempos medievais como no
-conturbado sï¿½culo XVII da "restauraï¿½ï¿½o". O castelo foi erguido no topo do
-escarpado monte que se eleva a menos de 500 metros a Sul da povoaï¿½ï¿½o, numa
-implantaï¿½ï¿½o que pode considerar-se paisagisticamente espectacular. Embora
-algumas referï¿½ncias documentais permitam sustentar que existiria um castelo
-anterior, a fortificaï¿½ï¿½o que actualmente aï¿½ se conserva data da segunda
-metade do sï¿½culo XIII, sendo a sua edificaï¿½ï¿½o geralmente atribuï¿½da ao rei
-Dinis. No primeiro quartel do sï¿½culo XVI foi desenhado por Duarte Darmas,
-que registou com pormenor as planta e vistas laterais da fortificaï¿½ï¿½o. Ao
-centro da alcï¿½ï¿½ova, na tradiï¿½ï¿½o poliocï¿½rtica romï¿½nica, emergia dominante uma
-poderosa torre de menagem, jï¿½ desaparecida. Esta e a cisterna eram
+conturbado século XVII da "restauração". O castelo foi erguido no topo do
+escarpado monte que se eleva a menos de 500 metros a Sul da povoação, numa
+implantação que pode considerar-se paisagisticamente espectacular. Embora
+algumas referências documentais permitam sustentar que existiria um castelo
+anterior, a fortificação que actualmente aí se conserva data da segunda
+metade do século XIII, sendo a sua edificação geralmente atribuída ao rei
+Dinis. No primeiro quartel do século XVI foi desenhado por Duarte Darmas,
+que registou com pormenor as planta e vistas laterais da fortificação. Ao
+centro da alcáçova, na tradição poliocértica românica, emergia dominante uma
+poderosa torre de menagem, já desaparecida. Esta e a cisterna eram
 defendidas por uma primeira cerca, de planta sub-rectangular e pequeno
-perï¿½metro, ao interior da qual se acedia quer pela porta da traiï¿½ï¿½o, chamada
+perímetro, ao interior da qual se acedia quer pela porta da traição, chamada
 do Sapo, no lado Norte, quer pela porta meridional, a do Sol, por onde se
 passava ao segundo e mais amplo recinto muralhado, que serviria
-fundamentalmente para abrigar gados e bens em perï¿½odos de conflito, sendo
-certo que tambï¿½m poderia ter correspondido a um projecto inicial de aï¿½
-implantar a povoaï¿½ï¿½o, projecto nï¿½o concretizado. A planta castelar revela
-padrï¿½es jï¿½ <LIGA TERMO="gï¿½tico"> gï¿½ticos</LIGA>, bem patentes na integraï¿½ï¿½o
-de cubelos e pequenos torreï¿½es nos panos da muralha da alcï¿½ï¿½ova. O <LIGA TERMO="aparelho"> aparelho</LIGA> construtivo ï¿½ cuidado. Arruinado e
-parcialmente desmontado no sï¿½culo XIX, conheceu jï¿½ na segunda metade deste
-sï¿½culo uma pequena intervenï¿½ï¿½o de limpeza e conservaï¿½ï¿½o, podendo
-considerar-se que as ruï¿½nas se conservam em bom estado. ï¿½ ï¿½poca do desenho
+fundamentalmente para abrigar gados e bens em períodos de conflito, sendo
+certo que também poderia ter correspondido a um projecto inicial de aí
+implantar a povoação, projecto não concretizado. A planta castelar revela
+padrões já <LIGA TERMO="gótico"> góticos</LIGA>, bem patentes na integração
+de cubelos e pequenos torreões nos panos da muralha da alcáçova. O <LIGA TERMO="aparelho"> aparelho</LIGA> construtivo é cuidado. Arruinado e
+parcialmente desmontado no século XIX, conheceu já na segunda metade deste
+século uma pequena intervenção de limpeza e conservação, podendo
+considerar-se que as ruínas se conservam em bom estado. À época do desenho
 de Duarte Darmas, um pequeno aglomerado habitacional implantava-se no
 exterior da fortaleza, na banda Norte - conforme relato de 1527, o
-aglomerado que deu lugar ï¿½ actual vila era entï¿½o uma "branda" pois os seus
-100 moradores, no Inverno, iam "viver fora por ser terra fria". Nessa ï¿½poca
-parece que ainda nï¿½o existia a pequena ponte que hoje cruza o rio Laboreiro
-no extremo Norte da povoaï¿½ï¿½o. De tradiï¿½ï¿½o arquitectï¿½nica medieval, com
+aglomerado que deu lugar à actual vila era então uma "branda" pois os seus
+100 moradores, no Inverno, iam "viver fora por ser terra fria". Nessa época
+parece que ainda não existia a pequena ponte que hoje cruza o rio Laboreiro
+no extremo Norte da povoação. De tradição arquitectónica medieval, com
 tabuleiro estreito e cavalete pouco pronunciado, vence um<LIGA TERMO="triedro"> triedro</LIGA>com mais de 5 metros de altura por 6 metros
 de comprimento. Conhecida por "Ponte Velha" ou "Ponte dos Mouros", esta
-ponte servia as antigas ligaï¿½ï¿½es que saï¿½am de Castro Laboreiro para Norte,
-nascente e Sul. A igreja desenhada por Duarte Darmas tambï¿½m jï¿½ nï¿½o ï¿½ a
-mesma. A actual igreja paroquial ï¿½ reconstruï¿½ï¿½o de ï¿½poca moderna,
+ponte servia as antigas ligações que saíam de Castro Laboreiro para Norte,
+nascente e Sul. A igreja desenhada por Duarte Darmas também já não é a
+mesma. A actual igreja paroquial é reconstrução de época moderna,
 conservando apenas dos tempos medievais uma interessante pia baptismal com
-decoraï¿½ï¿½o insculturada de tradiï¿½ï¿½o romï¿½nica.</DESARQ>
-		<INTERE>Trata-se de um monumento-sï¿½tio de inegï¿½vel significado histï¿½rico regional e
-bastante valor cientï¿½fico e patrimonial, fundamental para a compreensï¿½o do
-povoamento medieval na regiï¿½o. O castelo estï¿½ classificado como Monumento
+decoração insculturada de tradição românica.</DESARQ>
+		<INTERE>Trata-se de um monumento-sítio de inegável significado histórico regional e
+bastante valor científico e patrimonial, fundamental para a compreensão do
+povoamento medieval na região. O castelo está classificado como Monumento
 Nacional - Dec. de 16-6-1910.</INTERE>
-		<BIBLIO>JOï¿½O DE ALMEIDA, J.de.(notas de)(1943) O Livro das Fortalezas de Duarte
+		<BIBLIO>JOÃO DE ALMEIDA, J.de.(notas de)(1943) O Livro das Fortalezas de Duarte
 Darmas. Lisboa </BIBLIO>
-		<BIBLIO> ALMEIDA, C.A.F. (1978) Arquitectura Romï¿½nica de Entre Douro e
+		<BIBLIO> ALMEIDA, C.A.F. (1978) Arquitectura Românica de Entre Douro e
 Minho, Tese de Doutoramento (policopiada), Faculdade de Letras da
 Universidade do Porto, Porto, 1978. </BIBLIO>
 		<BIBLIO> ALMEIDA, C.A.F. (1978b) Castelologia Medieval de Entre Douro e
 Minho, Prova Complementar da Tese de Doutoramento (policopiado), Faculdade
 de Letras da Universidade do Porto, Porto,1978. </BIBLIO>
 		<BIBLIO> ALMEIDA, C.A.F. (1987) Alto Minho, (novos guias de Portugal, 5),
-Editorial Presenï¿½a, Lisboa, 1987. </BIBLIO>
-		<BIBLIO> RODRIGUES, A.R. (1985) Pontes Romanas e Romï¿½nicas de Castro
-Laboreiro (separata dos "Cadernos da Cï¿½mara Municipal de Melgaï¿½o, 2), Cï¿½mara
-Municipal de Melgaï¿½o, 1985. </BIBLIO>
-		<AUTOR> Luï¿½s Fontes </AUTOR>
+Editorial Presença, Lisboa, 1987. </BIBLIO>
+		<BIBLIO> RODRIGUES, A.R. (1985) Pontes Romanas e Românicas de Castro
+Laboreiro (separata dos "Cadernos da Câmara Municipal de Melgaço, 2), Câmara
+Municipal de Melgaço, 1985. </BIBLIO>
+		<AUTOR> Luís Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

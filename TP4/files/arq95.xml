@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Cervos </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Cervos </LUGAR>
 		<FREGUE> Cervos </FREGUE>
 		<CONCEL> Montalegre </CONCEL>
@@ -11,23 +12,23 @@
 		<LATITU> 529,9 </LATITU>
 		<LONGIT> 237,5 </LONGIT>
 		<ALTITU> 855m </ALTITU>
-		<ACESSO>O acesso faz-se pela estrada municipal alcatroada que liga a povoaï¿½ï¿½o
-directamente ï¿½ estrada EN 103, na direcï¿½ï¿½o Montalegre - Boticas. O monumento
-nï¿½o estï¿½ sinalizado.</ACESSO>
-		<DESARQ>Em torno da igreja paroquial, no interior do adro murado, vï¿½em-se tampas de
-sepulturas com decoraï¿½ï¿½o simples, muito erodidas por reutilizaï¿½ï¿½o em
-pavimento e um <LIGA TERMO="sarcï¿½fago"> sarcï¿½fago</LIGA> antropomï¿½rfico, em
-granito. Trata-se de vestï¿½gios da <LIGA TERMO="necrï¿½pole"> necrï¿½pole</LIGA>
-baixo-medieval, testemunhadores da antiga prï¿½tica de enterrar os paroquianos
-no adro envolvente da igreja, ï¿½ sombra protectora do edifï¿½cio sagrado. Nï¿½o
-se conhecem outras referï¿½ncias histï¿½rico-arqueolï¿½gicas
+		<ACESSO>O acesso faz-se pela estrada municipal alcatroada que liga a povoação
+directamente à estrada EN 103, na direcção Montalegre - Boticas. O monumento
+não está sinalizado.</ACESSO>
+		<DESARQ>Em torno da igreja paroquial, no interior do adro murado, vêem-se tampas de
+sepulturas com decoração simples, muito erodidas por reutilização em
+pavimento e um <LIGA TERMO="sarcófago"> sarcófago</LIGA> antropomórfico, em
+granito. Trata-se de vestígios da <LIGA TERMO="necrópole"> necrópole</LIGA>
+baixo-medieval, testemunhadores da antiga prática de enterrar os paroquianos
+no adro envolvente da igreja, à sombra protectora do edifício sagrado. Não
+se conhecem outras referências histórico-arqueológicas
 contextualizadoras.</DESARQ>
-		<INTERP>Igreja e necrï¿½pole tardo-medievais.</INTERP>
-		<INTERE>Embora razoavelmente conservados, os elementos descritos nï¿½o tï¿½m, no
+		<INTERP>Igreja e necrópole tardo-medievais.</INTERP>
+		<INTERE>Embora razoavelmente conservados, os elementos descritos não têm, no
 contexto regional, grande valor patrimonial nem revestem particular
-significado histï¿½rico.</INTERE>
-		<BIBLIO>FONTES L. (1992) Sï¿½tios e Achados Arqueolï¿½gicos do Concelho de
-Montalegre. Braga, 1992 (ediï¿½ï¿½o policopiada da CCRN - Porto). </BIBLIO>
+significado histórico.</INTERE>
+		<BIBLIO>FONTES L. (1992) Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

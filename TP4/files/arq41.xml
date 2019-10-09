@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
-		<IDENTI> Castro da Sola; Bouï¿½a da Oura </IDENTI>
-		<DESCRI> Povoado da Prï¿½-Histï¿½ria Recente</DESCRI>
-		<CRONO> Prï¿½-Histï¿½ria Recente / Idade Mï¿½dia</CRONO>
+		<IDENTI> Castro da Sola; Bouça da Oura </IDENTI>
+		<DESCRI> Povoado da Pré-História Recente</DESCRI>
+		<CRONO> Pré-História Recente / Idade Média</CRONO>
 		<LUGAR> Pitancinhos </LUGAR>
 		<FREGUE> Palmeira </FREGUE>
 		<CONCEL> Braga </CONCEL>
@@ -12,30 +13,30 @@
 		<LONGIT> 176,3 </LONGIT>
 		<ALTITU> 127m </ALTITU>
 		<QUADRO>Pequena colina residual, na vertente noroeste de Montariol. O povoado tinha
-boas condiï¿½ï¿½es de visibilidade e de acesso aos terrenos dos vales
-circundantes. Nas vertentes sul e sudeste a vegetaï¿½ï¿½o ï¿½ arbï¿½rea e arbustiva.</QUADRO>
-		<TRAARQ>Foram realizadas escavaï¿½ï¿½es neste povoado entre 1991 e 1992, dirigidas por
+boas condições de visibilidade e de acesso aos terrenos dos vales
+circundantes. Nas vertentes sul e sudeste a vegetação é arbórea e arbustiva.</QUADRO>
+		<TRAARQ>Foram realizadas escavações neste povoado entre 1991 e 1992, dirigidas por
 Ana M. S. Bettencourt (U.A.U.M.).</TRAARQ>
-		<DESARQ>Este povoado encontra-se praticamente destruï¿½do por pedreiras, restando-lhe
-apenas parte da vertente sul e sudeste. As escavaï¿½ï¿½es realizadas em 1991 e
-1992, permitiram colocar a hipï¿½tese da existï¿½ncia de trï¿½s momentos de
-ocupaï¿½ï¿½o descontï¿½nuos. O primeiro, associado a cerï¿½micas com decoraï¿½ï¿½o
-penteada e incisa metopada de "tipo Penha", bem como a uma estrutura pï¿½trea
-identificada como uma "cerca" ou "muralha", foi atribuï¿½do ao Calcolï¿½tico. O
+		<DESARQ>Este povoado encontra-se praticamente destruído por pedreiras, restando-lhe
+apenas parte da vertente sul e sudeste. As escavações realizadas em 1991 e
+1992, permitiram colocar a hipótese da existência de três momentos de
+ocupação descontínuos. O primeiro, associado a cerâmicas com decoração
+penteada e incisa metopada de "tipo Penha", bem como a uma estrutura pétrea
+identificada como uma "cerca" ou "muralha", foi atribuído ao Calcolítico. O
 segundo, caracterizado por fossas abertas no saibro, buracos de poste,
-muretes, eventuais cistas e vasos de "largo bordo horizontal", corresponde ï¿½
-1ï¿½ metade do II milï¿½nio A.C.. O terceiro, associa-se ï¿½ Alta Idade Mï¿½dia. O
+muretes, eventuais cistas e vasos de "largo bordo horizontal", corresponde à
+1ª metade do II milénio A.C.. O terceiro, associa-se à Alta Idade Média. O
 monte onde assenta o povoado deveria corresponder ao "Mons Manioco" da
-documentaï¿½ï¿½o medieval. </DESARQ>
-		<INTERP>Povoado da <LIGA TERMO="prï¿½-histï¿½ria recente"> Prï¿½-Histï¿½ria recente</LIGA> e
-da Alta Idade Mï¿½dia. </INTERP>
+documentação medieval. </DESARQ>
+		<INTERP>Povoado da <LIGA TERMO="pré-história recente"> Pré-História recente</LIGA> e
+da Alta Idade Média. </INTERP>
 		<DEPOSI>Museu D. Diogo de Sousa.</DEPOSI>
-		<BIBLIO>MARTINS, M. (1990) Povoamento Proto-Hstï¿½rico e a Romanizaï¿½ï¿½o da Bacia do
-Curso Mï¿½dio Cï¿½vado, Cadernos de Arqueologia, Monografias, pp.84. </BIBLIO>
-		<BIBLIO> FONTES, L. (1993) Inventï¿½rio de sï¿½tios e achados arqueolï¿½gicos do
-concelho de Braga, Mï¿½nia, 3ï¿½ sï¿½r., 1, Braga, pp. 31-38. </BIBLIO>
-		<BIBLIO> BETTENCOURT (1991-1992) O Povoado da Sola, Braga: notï¿½cia
-preliminar das escavaï¿½ï¿½es de 1991-92, Cadernos de Arqueologia, 8/9, Braga,
+		<BIBLIO>MARTINS, M. (1990) Povoamento Proto-Hstórico e a Romanização da Bacia do
+Curso Médio Cávado, Cadernos de Arqueologia, Monografias, pp.84. </BIBLIO>
+		<BIBLIO> FONTES, L. (1993) Inventário de sítios e achados arqueológicos do
+concelho de Braga, Mínia, 3ª sér., 1, Braga, pp. 31-38. </BIBLIO>
+		<BIBLIO> BETTENCOURT (1991-1992) O Povoado da Sola, Braga: notícia
+preliminar das escavações de 1991-92, Cadernos de Arqueologia, 8/9, Braga,
 pp.97-118. </BIBLIO>
 		<AUTOR> Ana M. S. Bettencourt </AUTOR>
 		<DATA>04-FEV-1998</DATA>

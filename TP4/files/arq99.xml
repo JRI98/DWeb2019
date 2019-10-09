@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Montalegre </IDENTI>
 		<DESCRI>
 			   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>;
 Castelo </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Montalegre </LUGAR>
 		<FREGUE> Montalegre </FREGUE>
 		<CONCEL> Montalegre </CONCEL>
@@ -13,69 +14,69 @@ Castelo </DESCRI>
 		<LATITU> 539,7 </LATITU>
 		<LONGIT> 228,4 </LONGIT>
 		<ALTITU> 990m </ALTITU>
-		<ACESSO>A sede concelhia ï¿½ servida pela estrada EN 308, com vï¿½rias ligaï¿½ï¿½es ï¿½ EN
-103. O monumento estï¿½ sinalizado.</ACESSO>
-		<QUADRO>A Cï¿½mara Municipal de Montalegre implementou recentemente um projecto de
-valorizaï¿½ï¿½o e aproveitamento do castelo, que inclui restauros parciais, o
-arranjo paisagï¿½stico da envolvente e a afectaï¿½ï¿½o das salas das torres a um
-programa museolï¿½gico. A marginal do rio junto ï¿½ ponte medieval foi jï¿½
-objecto de intervenï¿½ï¿½o, apresentando um agradï¿½vel arranjo. </QUADRO>
-		<DESARQ>Montalegre foi, desde os sï¿½culos centrais das Idade Mï¿½dia, sede da Terra de
-Barroso, regiï¿½o perifï¿½rica e fronteiriï¿½a que ainda hoje conserva,
+		<ACESSO>A sede concelhia é servida pela estrada EN 308, com várias ligações à EN
+103. O monumento está sinalizado.</ACESSO>
+		<QUADRO>A Câmara Municipal de Montalegre implementou recentemente um projecto de
+valorização e aproveitamento do castelo, que inclui restauros parciais, o
+arranjo paisagístico da envolvente e a afectação das salas das torres a um
+programa museológico. A marginal do rio junto à ponte medieval foi já
+objecto de intervenção, apresentando um agradável arranjo. </QUADRO>
+		<DESARQ>Montalegre foi, desde os séculos centrais das Idade Média, sede da Terra de
+Barroso, região periférica e fronteiriça que ainda hoje conserva,
 apresentando embora um quadro territorial-administrativo distinto, uma forte
-identidade cultural. O seu castelo foi sempre garante e sï¿½mbolo da
-manutenï¿½ï¿½o das integridade territorial e soberania nacionais, tanto nos
-tempos medievais como no conturbado sï¿½culo XVII da "restauraï¿½ï¿½o" ou ainda
-mais tarde no quadro das invasï¿½es francesas. O castelo foi erguido sobre as
-ruï¿½nas de um antigo <LIGA TERMO="castro romanizado"> castro
-romanizado</LIGA> no decurso do sï¿½culo XIII, referenciando-se a 1273 a
-primeira carta de foral dada por Afonso III. No primeiro quartel do sï¿½culo
+identidade cultural. O seu castelo foi sempre garante e símbolo da
+manutenção das integridade territorial e soberania nacionais, tanto nos
+tempos medievais como no conturbado século XVII da "restauração" ou ainda
+mais tarde no quadro das invasões francesas. O castelo foi erguido sobre as
+ruínas de um antigo <LIGA TERMO="castro romanizado"> castro
+romanizado</LIGA> no decurso do século XIII, referenciando-se a 1273 a
+primeira carta de foral dada por Afonso III. No primeiro quartel do século
 XVI foi desenhado por Duarte Darmas, que registou com pormenor as planta e
-vistas laterais da fortificaï¿½ï¿½o, entï¿½o jï¿½ com a sua poderosa torre de
-menagem a dominar a alcï¿½ï¿½ova. A cerca desta, de planta geral circular, deixa
-perceber a existï¿½ncia de vï¿½rias remodelaï¿½ï¿½es, reveladoras de diferentes
-modelos arquitectï¿½nicos: a parte mais antiga acusa padrï¿½es jï¿½ <LIGA TERMO="gï¿½tico"> gï¿½ticos</LIGA>, com a torre de menagem e torres laterais
-integradas na face externa da cerca. O <LIGA TERMO="aparelho">aparelho</LIGA> construtivo ï¿½ cuidado, integrando inï¿½meros <LIGA TERMO="silhar"> silhares</LIGA> siglados. Data tambï¿½m desta ï¿½poca a ampla e
-profunda cisterna no interior da alcï¿½ï¿½ova; em ï¿½poca posterior, talvez numa
-intervenï¿½ï¿½o fernandina, reforï¿½ou-se a defesa da torre de menagem com a
-construï¿½ï¿½o de um recinto amuralhado de planta quadrada na banda poente,
-reforï¿½ado por dois cubelos arredondados. Junto ï¿½ base localizavam-se
+vistas laterais da fortificação, então já com a sua poderosa torre de
+menagem a dominar a alcáçova. A cerca desta, de planta geral circular, deixa
+perceber a existência de várias remodelações, reveladoras de diferentes
+modelos arquitectónicos: a parte mais antiga acusa padrões já <LIGA TERMO="gótico"> góticos</LIGA>, com a torre de menagem e torres laterais
+integradas na face externa da cerca. O <LIGA TERMO="aparelho">aparelho</LIGA> construtivo é cuidado, integrando inúmeros <LIGA TERMO="silhar"> silhares</LIGA> siglados. Data também desta época a ampla e
+profunda cisterna no interior da alcáçova; em época posterior, talvez numa
+intervenção fernandina, reforçou-se a defesa da torre de menagem com a
+construção de um recinto amuralhado de planta quadrada na banda poente,
+reforçado por dois cubelos arredondados. Junto à base localizavam-se
 troneiras com seteiras cruzetadas, que incorporavam bombardadeiras nos
 cubelos.; mais tarde, talvez por iniciativa do rei Manuel I, que em 1515
-atribuiu novo foral a Montalegre, acrescentou-se mais um torreï¿½o quadrado ï¿½
-muralha da alcï¿½ï¿½ova. Outras pequenas remodelaï¿½ï¿½es tiveram lugar
-posteriormente, relevando apenas a construï¿½ï¿½o de um pano de muralha
-abaluartada, traduzindo a penetraï¿½ï¿½o de modelos arquitectï¿½nicos tipo Vauban.
-Parcialmente desmontado no sï¿½culo XVIII, foi tambï¿½m parcialmente restaurado
-em meados do nosso sï¿½culo. A parte nï¿½o arruinada conserva-se em bom estado.
-ï¿½ ï¿½poca do desenho de Duarte Darmas, uma<LIGA TERMO="cerca"> cerca</LIGA>
-baixa, espï¿½cie de almedina, desenvolvia-se pela encosta Sudoeste do morro,
-abrigando algumas casas e uma igreja. Contudo, e embora ï¿½ "sombra
+atribuiu novo foral a Montalegre, acrescentou-se mais um torreão quadrado à
+muralha da alcáçova. Outras pequenas remodelações tiveram lugar
+posteriormente, relevando apenas a construção de um pano de muralha
+abaluartada, traduzindo a penetração de modelos arquitectónicos tipo Vauban.
+Parcialmente desmontado no século XVIII, foi também parcialmente restaurado
+em meados do nosso século. A parte não arruinada conserva-se em bom estado.
+À época do desenho de Duarte Darmas, uma<LIGA TERMO="cerca"> cerca</LIGA>
+baixa, espécie de almedina, desenvolvia-se pela encosta Sudoeste do morro,
+abrigando algumas casas e uma igreja. Contudo, e embora à "sombra
 protectora" do castelo, o aglomerado principal da vila implantava-se no
-exterior da fortaleza, na banda Sul. No lado Norte desenha-se ainda, lanï¿½ada
-sobre um rio, correspondente ao Cï¿½vado, uma pequena ponte com dois arcos.
-Actualmente conserva-se aï¿½ uma ponte, que a populaï¿½ï¿½o designa por "ponte
-velha", de um sï¿½<LIGA TERMO="arco"> arco</LIGA> bem aparelhado, com alguns
+exterior da fortaleza, na banda Sul. No lado Norte desenha-se ainda, lançada
+sobre um rio, correspondente ao Cávado, uma pequena ponte com dois arcos.
+Actualmente conserva-se aí uma ponte, que a população designa por "ponte
+velha", de um só<LIGA TERMO="arco"> arco</LIGA> bem aparelhado, com alguns
 <LIGA TERMO="silhar"> silhares</LIGA> siglados no intradorso, suportando um
 tabuleiro muito alterado mas onde ainda se percebe o cavalete original pouco
-pronunciado e uma remodelaï¿½ï¿½o moderna (seiscentista ?), tudo sob o piso
+pronunciado e uma remodelação moderna (seiscentista ?), tudo sob o piso
 horizontal recentemente colocado. Os paramentos apresentam-se menos
-cuidados. As caracterï¿½sticas construtivas, designadamente as siglas, bem
-como a toponï¿½mia, apontam para uma cronologia baixo-medieval (aceitando esta
-cronologia deve entender-se que Duarte Darmas terï¿½ desenhado mal a
+cuidados. As características construtivas, designadamente as siglas, bem
+como a toponímia, apontam para uma cronologia baixo-medieval (aceitando esta
+cronologia deve entender-se que Duarte Darmas terá desenhado mal a
 ponte).</DESARQ>
-		<INTERP>Povoado fortificado romanizado; Castelo de fundaï¿½ï¿½o tardo-medieval; sï¿½c.
+		<INTERP>Povoado fortificado romanizado; Castelo de fundação tardo-medieval; séc.
 XIII.</INTERP>
-		<INTERE>A classificaï¿½ï¿½o de Monumento Nacional (Dec. de 16-6-1910; Z.P. - D.G., 2ï¿½
-Sï¿½rie, nï¿½ 272, de 22-11-1957), diz bem do valor patrimonial do castelo, a
-que acresce um importante significado histï¿½rico-cultural regional e
+		<INTERE>A classificação de Monumento Nacional (Dec. de 16-6-1910; Z.P. - D.G., 2ª
+Série, nº 272, de 22-11-1957), diz bem do valor patrimonial do castelo, a
+que acresce um importante significado histórico-cultural regional e
 nacional. </INTERE>
 		<BIBLIO>ALMEIDA, J. (1943). O Livro das Fortalezas de Duarte Darmas. Lisboa, 1943,
 pp.371-386. </BIBLIO>
 		<BIBLIO> COSTA, J. G. (1968). Montalegre e Terras de Barroso. Montalegre,
 1968. </BIBLIO>
-		<BIBLIO> FONTES, L.(1992). Sï¿½tios e Achados Arqueolï¿½gicos do Concelho de
-Montalegre. Braga, 1992 (ediï¿½ï¿½o policopiada da CCRN - Porto). </BIBLIO>
+		<BIBLIO> FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

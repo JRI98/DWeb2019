@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Santar </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Santar </LUGAR>
 		<FREGUE> Santar </FREGUE>
 		<CONCEL> Arcos de Valdevez </CONCEL>
@@ -11,22 +12,22 @@
 		<LATITU> 539,1 </LATITU>
 		<LONGIT> 176,1 </LONGIT>
 		<ALTITU> 50m </ALTITU>
-		<ACESSO>Junto ï¿½ aldeia de Santar. O acesso faz-se por estrada municipal a partir da
+		<ACESSO>Junto à aldeia de Santar. O acesso faz-se por estrada municipal a partir da
 estrada nacional EN.202-1 (um ramal que liga as EN.101 - Arcos a Ponte da
-Barca e EN.202 - Arcos a Ponte de Lima). O monumento nï¿½o estï¿½ sinalizado.</ACESSO>
-		<DESARQ>Nas paredes laterais da <LIGA TERMO="ï¿½bside"> ï¿½bside</LIGA>da igreja
-paroquial de Santa Maria de Santar, que foi vigararia de apresentaï¿½ï¿½o da
-Comenda de Tï¿½vora, conservam-se, bastante mutilados, alguns <LIGA TERMO="modilhï¿½o"> modilhï¿½es</LIGA> que compunham o coroamento das paredes da
-edificaï¿½ï¿½o romï¿½nica, profundamente alterada por sucessivas remodelaï¿½ï¿½es e
-ampliaï¿½ï¿½es posteriores.</DESARQ>
-		<INTERP>Igreja de fundaï¿½ï¿½o medieval.</INTERP>
-		<INTERE>Trata-se de um monumento sem relevï¿½ncia histï¿½rica local e de escasso valor
-cientï¿½fico e patrimonial, interessando apenas ï¿½ compreensï¿½o da difusï¿½o do
-<LIGA TERMO="romï¿½nico"> romï¿½nico</LIGA> na regiï¿½o.</INTERE>
+Barca e EN.202 - Arcos a Ponte de Lima). O monumento não está sinalizado.</ACESSO>
+		<DESARQ>Nas paredes laterais da <LIGA TERMO="ábside"> ábside</LIGA>da igreja
+paroquial de Santa Maria de Santar, que foi vigararia de apresentação da
+Comenda de Távora, conservam-se, bastante mutilados, alguns <LIGA TERMO="modilhão"> modilhões</LIGA> que compunham o coroamento das paredes da
+edificação românica, profundamente alterada por sucessivas remodelações e
+ampliações posteriores.</DESARQ>
+		<INTERP>Igreja de fundação medieval.</INTERP>
+		<INTERE>Trata-se de um monumento sem relevância histórica local e de escasso valor
+científico e patrimonial, interessando apenas à compreensão da difusão do
+<LIGA TERMO="românico"> românico</LIGA> na região.</INTERE>
 		<BIBLIO>ALMEIDA, C.A.F.(1987) Alto Minho, (novos guias de Portugal, 5), Editorial
-Presenï¿½a, Lisboa, 1987. </BIBLIO>
+Presença, Lisboa, 1987. </BIBLIO>
 		<BIBLIO> BARREIROS, M.A. (1926) Egrejas e Capelas Romanicas da Ribeira Lima,
-Ediï¿½ï¿½es Marques Abreu, Porto, 1926. </BIBLIO>
-		<AUTOR> Luï¿½s Fontes </AUTOR>
+Edições Marques Abreu, Porto, 1926. </BIBLIO>
+		<AUTOR> Luís Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

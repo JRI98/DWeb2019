@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Vilela </IDENTI>
 		<DESCRI> Ponte </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Vilela </LUGAR>
 		<FREGUE> Vilela</FREGUE>
 		<CONCEL> Arcos de Valdevez </CONCEL>
@@ -13,45 +14,45 @@
 		<ALTITU> 60m </ALTITU>
 		<ACESSO>Cerca de 500 metros para Norte da igreja da aldeia de Vilela, sobre o rio
 Vez. O acesso faz-se directamente pela estrada municipal EM.505-4, que liga
-as aldeias de Aspra (EN.101) a Vilela (EN.202-2), por Choï¿½as, passando sobre
-a ponte. O monumento nï¿½o estï¿½ sinalizado.</ACESSO>
-		<DESARQ>Ponte medieval lanï¿½ada sobre o rio Vez numa zona de topografia mais
-acessï¿½vel. ï¿½ notï¿½vel pelas suas caracterï¿½sticas construtivas, apesar de a
-vegetaï¿½ï¿½o que margina o rio nï¿½o permitir perceber imediatamente toda a sua
-volumetria e a imagem de grande solidez que se apreende com a observaï¿½ï¿½o dos
-seus alï¿½ados. ï¿½ igualmente notï¿½vel pela excelï¿½ncia da fï¿½brica,
-apresentando-se solidamente assente nas margens e num pegï¿½o central
+as aldeias de Aspra (EN.101) a Vilela (EN.202-2), por Choças, passando sobre
+a ponte. O monumento não está sinalizado.</ACESSO>
+		<DESARQ>Ponte medieval lançada sobre o rio Vez numa zona de topografia mais
+acessível. É notável pelas suas características construtivas, apesar de a
+vegetação que margina o rio não permitir perceber imediatamente toda a sua
+volumetria e a imagem de grande solidez que se apreende com a observação dos
+seus alçados. É igualmente notável pela excelência da fábrica,
+apresentando-se solidamente assente nas margens e num pegão central
 defendido por forte talhamar triangular. Tem dois arcos, um maior, no lado
 nascente, de volta ligeiramente quebrada, e no lado poente um mais pequeno,
-de volta perfeita. Nos intradorsos sï¿½o visï¿½veis os encaixes dos cimbres,
-observando-se tambï¿½m inï¿½meras siglas medievais de <LIGA TERMO="canteiro">canteiro</LIGA>. Numa <LIGA TERMO="aduela"> aduela</LIGA> do aro juzante
-do<LIGA TERMO="arco"> arco</LIGA>maior estï¿½ gravada uma pequena inscriï¿½ï¿½o,
-de leitura difï¿½cil devido ao seu posicionamento. O tabuleiro, em cavalete
-pronunciado, com guardas pï¿½treas e lajeado, mede quase 4 metros de largura e
+de volta perfeita. Nos intradorsos são visíveis os encaixes dos cimbres,
+observando-se também inúmeras siglas medievais de <LIGA TERMO="canteiro">canteiro</LIGA>. Numa <LIGA TERMO="aduela"> aduela</LIGA> do aro juzante
+do<LIGA TERMO="arco"> arco</LIGA>maior está gravada uma pequena inscrição,
+de leitura difícil devido ao seu posicionamento. O tabuleiro, em cavalete
+pronunciado, com guardas pétreas e lajeado, mede quase 4 metros de largura e
 vence um<LIGA TERMO="triedro"> triedro</LIGA>total superior a 40 metros. No
-topo nascente (margem esquerda do rio), umas "<LIGA TERMO="alminhas">alminhas</LIGA>" modernas "protegem" os viandantes. O <LIGA TERMO="aparelho"> aparelho</LIGA> dos paramentos ï¿½ de <LIGA TERMO="silhar">silhar</LIGA>ia irregularmente aparelhada, revelando maior qualidade nos
-aros dos arcos, onde se apresenta regular. Sendo uma construï¿½ï¿½o
-inequivocamente medieval, relevando neste aspecto a referï¿½ncia ao topï¿½nimo
-Ponte nas "Inquiriï¿½ï¿½es" de 1258, deve aceitar-se que o piso do tabuleiro e
-o<LIGA TERMO="arco"> arco</LIGA>maior, apontado, sejam uma reconstruï¿½ï¿½o
-posterior, tardo-medieval ou mesmo jï¿½ moderna. O monumento e a envolvï¿½ncia
-paisagï¿½stica apresentam-se bem conservadas.</DESARQ>
+topo nascente (margem esquerda do rio), umas "<LIGA TERMO="alminhas">alminhas</LIGA>" modernas "protegem" os viandantes. O <LIGA TERMO="aparelho"> aparelho</LIGA> dos paramentos é de <LIGA TERMO="silhar">silhar</LIGA>ia irregularmente aparelhada, revelando maior qualidade nos
+aros dos arcos, onde se apresenta regular. Sendo uma construção
+inequivocamente medieval, relevando neste aspecto a referência ao topónimo
+Ponte nas "Inquirições" de 1258, deve aceitar-se que o piso do tabuleiro e
+o<LIGA TERMO="arco"> arco</LIGA>maior, apontado, sejam uma reconstrução
+posterior, tardo-medieval ou mesmo já moderna. O monumento e a envolvência
+paisagística apresentam-se bem conservadas.</DESARQ>
 		<INTERP>Ponte medieval.</INTERP>
-		<INTERE>Este monumento ï¿½, como obra pontï¿½stica, um valor patrimonial inquestionï¿½vel,
-classificado como Imï¿½vel de Interesse Pï¿½blico (Dec. 29/90 de 17-7). Tal como
-a ponte de ï¿½zere, detem tambï¿½m grande interesse e significado
-histï¿½rico-arqueolï¿½gico porque ï¿½ um importante testemunho da velha estrada
-medieval que ligava os Arcos de Valdevez ao vale mï¿½dio do rio Minho,
-servindo as povoaï¿½ï¿½es locais e os romeiros e/ou os exï¿½rcitos em trï¿½nsito.
+		<INTERE>Este monumento é, como obra pontística, um valor patrimonial inquestionável,
+classificado como Imóvel de Interesse Público (Dec. 29/90 de 17-7). Tal como
+a ponte de Ázere, detem também grande interesse e significado
+histórico-arqueológico porque é um importante testemunho da velha estrada
+medieval que ligava os Arcos de Valdevez ao vale médio do rio Minho,
+servindo as povoações locais e os romeiros e/ou os exércitos em trânsito.
 Seguindo pela margem esquerda do rio Vez, cruzava em Vilela para a margem
-direita, seguindo depois por Choï¿½as (onde terï¿½o acampado as forï¿½as de Afonso
+direita, seguindo depois por Choças (onde terão acampado as forças de Afonso
 Henriques aquando do celebrado recontro de Valdevez), Portela, Extremo,
-Trute e depois para Norte atï¿½ Monï¿½ï¿½o.</INTERE>
-		<BIBLIO>ALMEIDA,C.A.F. (1968) Vias Medievais de Entre Douro e Minho, Dissertaï¿½ï¿½o de
-Licenciatura em Histï¿½ria (policopiada), Faculdade de Letras da Universidade
+Trute e depois para Norte até Monção.</INTERE>
+		<BIBLIO>ALMEIDA,C.A.F. (1968) Vias Medievais de Entre Douro e Minho, Dissertação de
+Licenciatura em História (policopiada), Faculdade de Letras da Universidade
 do Porto, Porto, 1968. </BIBLIO>
 		<BIBLIO> ALMEIDA, C.A.F. (1987) Alto Minho, (novos guias de Portugal, 5),
-Editorial Presenï¿½a, Lisboa, 1987. </BIBLIO>
-		<AUTOR> Luï¿½s Fontes </AUTOR>
+Editorial Presença, Lisboa, 1987. </BIBLIO>
+		<AUTOR> Luís Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

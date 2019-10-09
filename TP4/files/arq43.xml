@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Monte da Cimbre </IDENTI>
-		<DESCRI> Monumento megalï¿½tico </DESCRI>
-		<CRONO> Prï¿½-Histï¿½ria Recente</CRONO>
+		<DESCRI> Monumento megalítico </DESCRI>
+		<CRONO> Pré-História Recente</CRONO>
 		<LUGAR> Aldeia de Cima </LUGAR>
-		<FREGUE> Vila Chï¿½ </FREGUE>
+		<FREGUE> Vila Chã </FREGUE>
 		<CONCEL> Esposende </CONCEL>
 		<CODADM> 030615 </CODADM>
 		<LATITU> 512,7 </LATITU>
 		<LONGIT> 148 </LONGIT>
 		<ALTITU> 250m </ALTITU>
-		<ACESSO>No fim do lugar da Aldeia de Cima, a seguir ï¿½ Travessa da Serra, no terceiro
+		<ACESSO>No fim do lugar da Aldeia de Cima, a seguir à Travessa da Serra, no terceiro
 caminho carreteiro do lado esquerdo. </ACESSO>
-		<QUADRO>Pequeno cabeï¿½o a Norte do Monte da Cerca, com excelente visibilidade para o
+		<QUADRO>Pequeno cabeço a Norte do Monte da Cerca, com excelente visibilidade para o
 vale do ribeiro do Peralta. </QUADRO>
-		<DESARQ>Trata-se de um monumento megalï¿½tico bem perceptï¿½vel na paisagem, com cï¿½mara
-e corredor indiferenciado e coberto por um tumulus com couraï¿½a lï¿½tica. Numa
-limpeza efectuada no imï¿½vel, por C. A. B. Almeida, recolheram-se alguns
-fragmentos de cerï¿½mica, uma base de fundo plano, de fabrico a torno e uma
-espiral de prata. V. Jorge (1980: 21) classifica estas peï¿½as como do Bronze
-Inicial. As datas de radiocarbono obtidas para a <LIGA TERMO="mamoa">mamoa</LIGA> 1 de Outeiro de Gregos, em Baiï¿½o, onde apareceu uma peï¿½a
-semelhante, admitem uma cronologia da 1ï¿½ metade do IIï¿½ milï¿½nio A.C.
-ï¿½ de registar a presenï¿½a de um possï¿½vel povoado monumentalizado, com uma
-muralha ciclï¿½pica, que rodeia um recinto de cerca de 60m de diï¿½metro, no
-Monte de Cerca, a poucas dezenas de metros para Sul. A densa vegetaï¿½ï¿½o
-arbï¿½rea e arbustiva que cobre a jazida nï¿½o permitiu recolher material de
-superfï¿½cie passï¿½vel de integraï¿½ï¿½o cronolï¿½gica, nas diferentes prospecï¿½ï¿½es aï¿½
+		<DESARQ>Trata-se de um monumento megalítico bem perceptível na paisagem, com câmara
+e corredor indiferenciado e coberto por um tumulus com couraça lítica. Numa
+limpeza efectuada no imóvel, por C. A. B. Almeida, recolheram-se alguns
+fragmentos de cerâmica, uma base de fundo plano, de fabrico a torno e uma
+espiral de prata. V. Jorge (1980: 21) classifica estas peças como do Bronze
+Inicial. As datas de radiocarbono obtidas para a <LIGA TERMO="mamoa">mamoa</LIGA> 1 de Outeiro de Gregos, em Baião, onde apareceu uma peça
+semelhante, admitem uma cronologia da 1ª metade do IIº milénio A.C.
+É de registar a presença de um possível povoado monumentalizado, com uma
+muralha ciclópica, que rodeia um recinto de cerca de 60m de diâmetro, no
+Monte de Cerca, a poucas dezenas de metros para Sul. A densa vegetação
+arbórea e arbustiva que cobre a jazida não permitiu recolher material de
+superfície passível de integração cronológica, nas diferentes prospecções aí
 efectuadas. </DESARQ>
-		<INTERP>Monumento Megalï¿½tico, construï¿½do ou reutilizado na Idade do Bronze.</INTERP>
+		<INTERP>Monumento Megalítico, construído ou reutilizado na Idade do Bronze.</INTERP>
 		<DEPOSI> Museu Municipal de Esposende.</DEPOSI>
-		<BIBLIO>ALMEIDA C.A.B. (1982b) O castro de S. Lourenï¿½o, Vila Chï¿½ - Esposende,
+		<BIBLIO>ALMEIDA C.A.B. (1982b) O castro de S. Lourenço, Vila Chã - Esposende,
 Boletim Cultural de Esposende, 2, Esposende pp. 43-46 </BIBLIO>
-		<BIBLIO> JORGE V. (1980) Escavaï¿½ï¿½o da mamoa 1 de Outeiro de Gregos. Serra da
-Aboboreira, Baiï¿½o, Portugï¿½lia, (N/S), est.XVI,1; 1982:444-445. </BIBLIO>
+		<BIBLIO> JORGE V. (1980) Escavação da mamoa 1 de Outeiro de Gregos. Serra da
+Aboboreira, Baião, Portugália, (N/S), est.XVI,1; 1982:444-445. </BIBLIO>
 		<AUTOR> Ana M.S. Bettencourt </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

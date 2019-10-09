@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Lindoso </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Lindoso </LUGAR>
 		<FREGUE> Lindoso </FREGUE>
 		<CONCEL> Ponte da Barca </CONCEL>
@@ -11,69 +12,69 @@
 		<LATITU> 544,3 </LATITU>
 		<LONGIT> 194,3 </LONGIT>
 		<ALTITU> 452m </ALTITU>
-		<ACESSO>O acesso faz-se pelo caminho municipal que liga a aldeia ï¿½ estrada nacional
-EN.304-1 (ligaï¿½ï¿½o Ponte da Barca ï¿½ fronteira da Madalena - troï¿½o do futuro
-IC.28). O monumento nï¿½o estï¿½ sinalizado.</ACESSO>
-		<DESARQ>Durante as obras de restauro da igreja paroquial realizadas na dï¿½cada de 50
-foram encontradas, no subsolo da zona do adro contï¿½gua ï¿½ parede setentrional
-da <LIGA TERMO="nave"> nave</LIGA>, vï¿½rias peï¿½as lï¿½ticas correspondentes a
-tumulaï¿½ï¿½es. Pela sua feiï¿½ï¿½o arcaica, mereceram a atenï¿½ï¿½o do P.e Josï¿½
-Magalhï¿½es, entï¿½o pï¿½roco em Lindoso, que as fez recolher no pï¿½tio interior da
-casa paroquial (hoje abandonada e semi arruinada). Trata-se de 6 peï¿½as em
-granito, correspondentes a duas caixas e quatro tampas de <LIGA TERMO="sarcï¿½fago"> sarcï¿½fagos</LIGA>. As duas arcas tumulares sï¿½o escavadas
-em blocos monolï¿½ticos de granito local, toscamente talhados, com cantos
-arredondados. A cavidade de um desenha uma forma antropomï¿½rfica e a de outro
-uma forma em "banheira". Nï¿½o ï¿½ perceptï¿½vel qualquer decoraï¿½ï¿½o apresentando
-ainda, abertos na base, um orifï¿½cio para verter os lï¿½quidos da decomposiï¿½ï¿½o
-do corpo. As tampas, incompletas, sï¿½o talhadas em lajes monolï¿½ticas de
-granito - uma de maior qualidade, bem afeiï¿½oada, apresenta decoraï¿½ï¿½o "em
-estola" desenhada por uma linha dupla central relevada, com bifurcaï¿½ï¿½o
-curvilï¿½nea na <LIGA TERMO="cabeceira"> cabeceira</LIGA>; outra, em granito
+		<ACESSO>O acesso faz-se pelo caminho municipal que liga a aldeia à estrada nacional
+EN.304-1 (ligação Ponte da Barca à fronteira da Madalena - troço do futuro
+IC.28). O monumento não está sinalizado.</ACESSO>
+		<DESARQ>Durante as obras de restauro da igreja paroquial realizadas na década de 50
+foram encontradas, no subsolo da zona do adro contígua à parede setentrional
+da <LIGA TERMO="nave"> nave</LIGA>, várias peças líticas correspondentes a
+tumulações. Pela sua feição arcaica, mereceram a atenção do P.e José
+Magalhães, então pároco em Lindoso, que as fez recolher no pátio interior da
+casa paroquial (hoje abandonada e semi arruinada). Trata-se de 6 peças em
+granito, correspondentes a duas caixas e quatro tampas de <LIGA TERMO="sarcófago"> sarcófagos</LIGA>. As duas arcas tumulares são escavadas
+em blocos monolíticos de granito local, toscamente talhados, com cantos
+arredondados. A cavidade de um desenha uma forma antropomórfica e a de outro
+uma forma em "banheira". Não é perceptível qualquer decoração apresentando
+ainda, abertos na base, um orifício para verter os líquidos da decomposição
+do corpo. As tampas, incompletas, são talhadas em lajes monolíticas de
+granito - uma de maior qualidade, bem afeiçoada, apresenta decoração "em
+estola" desenhada por uma linha dupla central relevada, com bifurcação
+curvilínea na <LIGA TERMO="cabeceira"> cabeceira</LIGA>; outra, em granito
 de pior qualidade e mais toscamente trabalhada, apresenta, no sentido do
-comprimento, uma dupla nervura em relevo, que define a linha de junï¿½ï¿½o dos
-dois planos em que a face se organiza (volume em "duas ï¿½guas"). Nessas duas
-bandas observa-se uma decoraï¿½ï¿½o gravada, composta por alguns sulcos pouco
-profundos, obtidos por picotagem, desenhando pequenas formas geomï¿½tricas do
-tipo "siglas"; uma terceira talhada em laje monolï¿½tica de granito local,
-razoavelmente afeiï¿½oada, da qual se conserva o terï¿½o do lado da <LIGA TERMO="cabeceira"> cabeceira</LIGA>, apresentando um volume em "duas ï¿½guas"
+comprimento, uma dupla nervura em relevo, que define a linha de junção dos
+dois planos em que a face se organiza (volume em "duas águas"). Nessas duas
+bandas observa-se uma decoração gravada, composta por alguns sulcos pouco
+profundos, obtidos por picotagem, desenhando pequenas formas geométricas do
+tipo "siglas"; uma terceira talhada em laje monolítica de granito local,
+razoavelmente afeiçoada, da qual se conserva o terço do lado da <LIGA TERMO="cabeceira"> cabeceira</LIGA>, apresentando um volume em "duas águas"
 com os dois planos a juntar-se ao centro numa linha relevada. No extremo da
-<LIGA TERMO="cabeceira"> cabeceira</LIGA> apresenta uma decoraï¿½ï¿½o em
+<LIGA TERMO="cabeceira"> cabeceira</LIGA> apresenta uma decoração em
 baixo-relevo formada por duas volutas cujos ramos principais divergem da
 linha central relevada. Do enrolamento da voluta maior saiem outras pequenas
 volutas menos enroladas (tipo gavinhas). No plano lateral esquerdo da face
-exposta conserva-se o que aparenta ser parte de uma epï¿½grafe, muito erodida
-e por isso de difï¿½cil interpretaï¿½ï¿½o, onde parece ler-se PET T. Nï¿½o ï¿½
-perceptï¿½vel outra decoraï¿½ï¿½o; existe ainda um quarto fragmento de tampa
-talhada em granito local, bem afeiï¿½oada. Corresponde a mais de metade do
-lado direito da tampa, abarcando parte da <LIGA TERMO="cabeceira">cabeceira</LIGA>. Foi cortada pelo eixo longitudinal da peï¿½a e reutilizada
-como guarniï¿½ï¿½o de porta, como evidenciam os rasgo e cova de apoio do eixo
-(com polimento de uso). Apresenta um volume em "duas ï¿½guas", observando-se
-no plano lateral direito uma decoraï¿½ï¿½o mista, gravada e em baixo-relevo,
-respectivamente uma suï¿½stica curvilï¿½nea inscrita num cï¿½rculo e um <LIGA TERMO="friso"> friso</LIGA> lateral de pequenas volutas limitadas por um
+exposta conserva-se o que aparenta ser parte de uma epígrafe, muito erodida
+e por isso de difícil interpretação, onde parece ler-se PET T. Não é
+perceptível outra decoração; existe ainda um quarto fragmento de tampa
+talhada em granito local, bem afeiçoada. Corresponde a mais de metade do
+lado direito da tampa, abarcando parte da <LIGA TERMO="cabeceira">cabeceira</LIGA>. Foi cortada pelo eixo longitudinal da peça e reutilizada
+como guarnição de porta, como evidenciam os rasgo e cova de apoio do eixo
+(com polimento de uso). Apresenta um volume em "duas águas", observando-se
+no plano lateral direito uma decoração mista, gravada e em baixo-relevo,
+respectivamente uma suástica curvilínea inscrita num círculo e um <LIGA TERMO="friso"> friso</LIGA> lateral de pequenas volutas limitadas por um
 rebordo perimetral que parece marcar a <LIGA TERMO="cabeceira">cabeceira</LIGA>. Os testemunhos materiais descritos reportam-se a uma
-modalidade especï¿½fica de tumulaï¿½ï¿½o, o enterramento em <LIGA TERMO="sarcï¿½fago"> sarcï¿½fago</LIGA>, modalidade bem documentada no NO
-peninsular durante os sï¿½culos centrais da Idade Mï¿½dia. Considerando o
-contexto arqueolï¿½gico-documental local, propomos para o conjunto destas
-peï¿½as uma cronologia compreendida entre os sï¿½culos XI-XIV. Embora se possa
-perceber uma certa influï¿½ncia galega, patente sobretudo na tampa "em estola"
-(a ï¿½nica peï¿½a que parece de "importaï¿½ï¿½o"), as caracterï¿½sticas
-tï¿½cnico-estilï¿½sticas das restantes peï¿½as, em que sobressai a simplicidade
-decorativa e a incipiï¿½ncia dos desenhos, sugerem uma produï¿½ï¿½o
+modalidade específica de tumulação, o enterramento em <LIGA TERMO="sarcófago"> sarcófago</LIGA>, modalidade bem documentada no NO
+peninsular durante os séculos centrais da Idade Média. Considerando o
+contexto arqueológico-documental local, propomos para o conjunto destas
+peças uma cronologia compreendida entre os séculos XI-XIV. Embora se possa
+perceber uma certa influência galega, patente sobretudo na tampa "em estola"
+(a única peça que parece de "importação"), as características
+técnico-estilísticas das restantes peças, em que sobressai a simplicidade
+decorativa e a incipiência dos desenhos, sugerem uma produção
 local.</DESARQ>
-		<INTERE>Este conjunto escultï¿½rico tumular tem grande valor e significado
-arqueolï¿½gicos, constituindo um importante contributo para a compreensï¿½o das
-modalidades de enterramento medieval na regiï¿½o. Deve por isso ser objecto de
-protecï¿½ï¿½o. Contudo, tal como outros elementos escultï¿½ricos em granito
+		<INTERE>Este conjunto escultórico tumular tem grande valor e significado
+arqueológicos, constituindo um importante contributo para a compreensão das
+modalidades de enterramento medieval na região. Deve por isso ser objecto de
+protecção. Contudo, tal como outros elementos escultóricos em granito
 expostos ao ar livre (actualmente encontram-se expostas no adro, alinhadas
-junto ï¿½ parede Norte da <LIGA TERMO="nave"> nave</LIGA>), estas peï¿½as estï¿½o
-sujeitas a acentuada erosï¿½o das superfï¿½cies devido ï¿½ sua fraca resistï¿½ncia
-ï¿½s condiï¿½ï¿½es ambientais (chuva, frio, musgos e lï¿½quenes).</INTERE>
-		<BIBLIO>BARROCA, M.J.(1987). Necrï¿½poles e Sepulturas Medievais de
-Entre-Douro-E-Minho (sï¿½culos v a XV), Provas de Aptidï¿½o Pedagï¿½gica e
-Capacidade Cientï¿½fica, (policopiado), Faculdade de Letras da Universidade do
-Porto, Porto,1987, (para as peï¿½as 3 e 5 ). </BIBLIO>
-		<BIBLIO>FONTES, F.(1996). O Territï¿½rio de Lindoso. Paisagem e Arqueologia (tese de
-mestrado, em conclusï¿½o), Universidade do Minho, Braga, 1996. </BIBLIO>
+junto à parede Norte da <LIGA TERMO="nave"> nave</LIGA>), estas peças estão
+sujeitas a acentuada erosão das superfícies devido à sua fraca resistência
+às condições ambientais (chuva, frio, musgos e líquenes).</INTERE>
+		<BIBLIO>BARROCA, M.J.(1987). Necrópoles e Sepulturas Medievais de
+Entre-Douro-E-Minho (séculos v a XV), Provas de Aptidão Pedagógica e
+Capacidade Científica, (policopiado), Faculdade de Letras da Universidade do
+Porto, Porto,1987, (para as peças 3 e 5 ). </BIBLIO>
+		<BIBLIO>FONTES, F.(1996). O Território de Lindoso. Paisagem e Arqueologia (tese de
+mestrado, em conclusão), Universidade do Minho, Braga, 1996. </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

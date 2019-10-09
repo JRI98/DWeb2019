@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Lindoso </IDENTI>
 		<DESCRI> Castelo </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Lindoso </LUGAR>
 		<FREGUE> Lindoso </FREGUE>
 		<CONCEL> Ponte da Barca </CONCEL>
@@ -11,134 +12,134 @@
 		<LATITU> 544,2 </LATITU>
 		<LONGIT> 194,5 </LONGIT>
 		<ALTITU> 462m </ALTITU>
-		<ACESSO>O acesso ao castelo faz-se pelo caminho municipal que liga a aldeia ï¿½
-estrada nacional EN.304-1 (ligaï¿½ï¿½o Ponte da Barca ï¿½ fronteira da Madalena -
-troï¿½o do futuro IC.28). O monumento estï¿½ sinalizado.</ACESSO>
-		<DESARQ>As fontes documentais sï¿½o praticamente omissas em relaï¿½ï¿½o aos tempos
-medievos do castelo de Lindoso, nï¿½o se conhecendo nenhum documento que
-refira a sua fundaï¿½ï¿½o. Com uma funï¿½ï¿½o estritamente militar, o castelo de
-Lindoso nunca deteve qualquer estatuto jurï¿½dico-administrativo,
-integrando-se sempre na Terra da Nï¿½brega, circunscriï¿½ï¿½o territorial sob a
-administraï¿½ï¿½o e controlo do poderoso castelo de Aboim da Nï¿½brega. O seu
-primeiro alcaide conhecido foi um certo Joï¿½o Aires que, jï¿½ no sï¿½culo XIV,
-foi nomeado por D. Pedro I, nï¿½o existindo nas chancelarias reais alvarï¿½s
-mais antigos. A partir deste sï¿½culo a histï¿½ria do castelo vai confundir-se
-com a gesta dos Araï¿½jos de Lï¿½bios, famï¿½lia que conservarï¿½ por cerca de dois
-sï¿½culos a alcaidaria do Lindoso numa espï¿½cie de tenï¿½ncia precï¿½ria, quase
-sempre renovada. O mais cï¿½lebre pelas faï¿½anhas e poder foi o notï¿½vel Paio
-Rodrigues, filho de Rodrigo Anes, nomeado alcaide por D. Joï¿½o I. Seguiu-se
-um certo Lopo de Araï¿½jo, nomeado pelo mesmo rei, para o cargo em 1464.
-Decorrente da sua funï¿½ï¿½o exclusivamente militar, o castelo de Lindoso terï¿½
-conhecido uma ocupaï¿½ï¿½o descontï¿½nua, revelando a sua mï¿½xima utilidade apenas
-nos perï¿½odos de conflitos regionais e/ou nacionais. Esta descontinuidade,
-perceptï¿½vel na precaridade da sua tenï¿½ncia e evidenciada pelos dados das
-escavaï¿½ï¿½es arqueolï¿½gicas, estï¿½ bem manifesta nos registos do Numeramento
-ordenado por D. Joï¿½o III em 17 de Julho de 1527, segundo o qual, a essa
-data, o castelo estava ermo, tendo entï¿½o a povoaï¿½ï¿½o de Lindoso apenas 41
-moradores. A fortificaï¿½ï¿½o medieval foi construï¿½da com pedra extraï¿½da no
-prï¿½prio local, como evidenciam os rasgos para colocaï¿½ï¿½o de cunhas que se
+		<ACESSO>O acesso ao castelo faz-se pelo caminho municipal que liga a aldeia à
+estrada nacional EN.304-1 (ligação Ponte da Barca à fronteira da Madalena -
+troço do futuro IC.28). O monumento está sinalizado.</ACESSO>
+		<DESARQ>As fontes documentais são praticamente omissas em relação aos tempos
+medievos do castelo de Lindoso, não se conhecendo nenhum documento que
+refira a sua fundação. Com uma função estritamente militar, o castelo de
+Lindoso nunca deteve qualquer estatuto jurídico-administrativo,
+integrando-se sempre na Terra da Nóbrega, circunscrição territorial sob a
+administração e controlo do poderoso castelo de Aboim da Nóbrega. O seu
+primeiro alcaide conhecido foi um certo João Aires que, já no século XIV,
+foi nomeado por D. Pedro I, não existindo nas chancelarias reais alvarás
+mais antigos. A partir deste século a história do castelo vai confundir-se
+com a gesta dos Araújos de Lóbios, família que conservará por cerca de dois
+séculos a alcaidaria do Lindoso numa espécie de tenência precária, quase
+sempre renovada. O mais célebre pelas façanhas e poder foi o notável Paio
+Rodrigues, filho de Rodrigo Anes, nomeado alcaide por D. João I. Seguiu-se
+um certo Lopo de Araújo, nomeado pelo mesmo rei, para o cargo em 1464.
+Decorrente da sua função exclusivamente militar, o castelo de Lindoso terá
+conhecido uma ocupação descontínua, revelando a sua máxima utilidade apenas
+nos períodos de conflitos regionais e/ou nacionais. Esta descontinuidade,
+perceptível na precaridade da sua tenência e evidenciada pelos dados das
+escavações arqueológicas, está bem manifesta nos registos do Numeramento
+ordenado por D. João III em 17 de Julho de 1527, segundo o qual, a essa
+data, o castelo estava ermo, tendo então a povoação de Lindoso apenas 41
+moradores. A fortificação medieval foi construída com pedra extraída no
+próprio local, como evidenciam os rasgos para colocação de cunhas que se
 observam, quer nos <LIGA TERMO="silhar"> silhares</LIGA> das muralhas quer
-nos afloramentos granï¿½ticos colocados a descoberto. Alicerï¿½adas na rocha de
-base, que por vezes foi ligeiramente afeiï¿½oada para receber os <LIGA TERMO="silhar"> silhar</LIGA>, as muralhas sï¿½o formadas por parede de face
-dupla construï¿½da com blocos granï¿½ticos de grandes dimensï¿½es, desenhando um
-<LIGA TERMO="aparelho"> aparelho</LIGA> regular pseudo-isï¿½dono. As
-superfï¿½cies de encosto foram afeiï¿½oadas, determinando juntas muito
-estreitas, sem argamassa. As superfï¿½cies das faces apresentam-se lisas, com
-um acabamento mais refinado nas fiadas acima do nï¿½vel de circulaï¿½ï¿½o e sem
+nos afloramentos graníticos colocados a descoberto. Alicerçadas na rocha de
+base, que por vezes foi ligeiramente afeiçoada para receber os <LIGA TERMO="silhar"> silhar</LIGA>, as muralhas são formadas por parede de face
+dupla construída com blocos graníticos de grandes dimensões, desenhando um
+<LIGA TERMO="aparelho"> aparelho</LIGA> regular pseudo-isódono. As
+superfícies de encosto foram afeiçoadas, determinando juntas muito
+estreitas, sem argamassa. As superfícies das faces apresentam-se lisas, com
+um acabamento mais refinado nas fiadas acima do nível de circulação e sem
 qualquer acabamento nas fiadas inferiores, que estariam soterradas. O miolo
-da parede ï¿½ de cascalho, calhaus e terra saibrosa. Desenhando uma planta
+da parede é de cascalho, calhaus e terra saibrosa. Desenhando uma planta
 simples de forma sub-quadrangular, torre de menagem do lado Norte integrando
 a muralha, e porta no lado oposto (Sul), flanqueada por dois cubelos, com
-muralhas espessas incorporando cinco balcï¿½es tipo "hourd", de que apenas se
-conservam alguns matacï¿½es, a edificaï¿½ï¿½o revela caracterï¿½sticas
-tï¿½cnico-construtivas aparentemente homogï¿½neas, embora se distingam pelo
-menos duas fases: uma primeira de maior qualidade, com <LIGA TERMO="silhar">silhares</LIGA> de maiores dimensï¿½es e faces com melhor acabamento, de
-superfï¿½cie lisa, ostentando sigla de <LIGA TERMO="canteiro">canteiro</LIGA>, correspondente ï¿½ metade inferior da torre de menagem,
-cubelos, porta e troï¿½o NE da muralha - datarï¿½ de meados ou terceiro quartel
-do sï¿½culo XIII; e uma segunda, qualitativamente mais fraca, com <LIGA TERMO="aparelho"> aparelho</LIGA> de menores dimensï¿½es, superfï¿½cies das
-faces menos bem tratadas e ausï¿½ncia absoluta de siglas, correspondente ï¿½
-finalizaï¿½ï¿½o das partes anteriormente iniciadas e construï¿½ï¿½o dos restantes
-panos de muralha - terï¿½ sido realizada nos finais do sï¿½culo. No canto NE
-localiza-se a cisterna, de planta de forma quadrangular, adossada ï¿½ muralha
+muralhas espessas incorporando cinco balcões tipo "hourd", de que apenas se
+conservam alguns matacães, a edificação revela características
+técnico-construtivas aparentemente homogéneas, embora se distingam pelo
+menos duas fases: uma primeira de maior qualidade, com <LIGA TERMO="silhar">silhares</LIGA> de maiores dimensões e faces com melhor acabamento, de
+superfície lisa, ostentando sigla de <LIGA TERMO="canteiro">canteiro</LIGA>, correspondente à metade inferior da torre de menagem,
+cubelos, porta e troço NE da muralha - datará de meados ou terceiro quartel
+do século XIII; e uma segunda, qualitativamente mais fraca, com <LIGA TERMO="aparelho"> aparelho</LIGA> de menores dimensões, superfícies das
+faces menos bem tratadas e ausência absoluta de siglas, correspondente à
+finalização das partes anteriormente iniciadas e construção dos restantes
+panos de muralha - terá sido realizada nos finais do século. No canto NE
+localiza-se a cisterna, de planta de forma quadrangular, adossada à muralha
 Este. Apresenta cobertura abobadada de<LIGA TERMO="arco"> arco</LIGA>
 ligeiramente apontado, bem aparelhado e com <LIGA TERMO="aduela">aduelas</LIGA> sigladas, rematada superiormente por um enchimento irregular
-de calhaus e cascalho que aflora ligeiramente acima da superfï¿½cie. Nï¿½o
+de calhaus e cascalho que aflora ligeiramente acima da superfície. Não
 ultrapassa os 3 metros de profundidade. Para a cronologia proposta para a
-fundaï¿½ï¿½o do castelo, genericamente a segunda metade do sï¿½culo XIII,
-concorrem nï¿½o sï¿½ a tipologia das siglas e as produï¿½ï¿½es cerï¿½micas recolhidas
-nas escavaï¿½ï¿½es arqueolï¿½gicas aï¿½ realizadas, mas tambï¿½m as "armas" afonsinas
+fundação do castelo, genericamente a segunda metade do século XIII,
+concorrem não só a tipologia das siglas e as produções cerâmicas recolhidas
+nas escavações arqueológicas aí realizadas, mas também as "armas" afonsinas
 gravadas no topo do<LIGA TERMO="arco"> arco</LIGA> exterior da porta Sul. Na
-sequï¿½ncia das guerras da Restauraï¿½ï¿½o e pela sua posiï¿½ï¿½o geo-estratï¿½gica, o
-castelo de Lindoso transformou-se numa praï¿½a forte de grande importï¿½ncia,
-sendo entï¿½o palco de inï¿½meros combates entre Portugal e Castela, ora ocupado
-por uns ora por outros. Foi nessa ï¿½poca, meados e terceiro quartel do sï¿½culo
-XVII, que o seu sistema defensivo sofreu uma completa reestruturaï¿½ï¿½o,
-adaptando-se ï¿½s novas exigï¿½ncias, determinadas pela introduï¿½ï¿½o da artilharia
-nas tï¿½cticas militares da ï¿½poca. Se entre 1641 e 1643 o alcaide de Lindoso,
+sequência das guerras da Restauração e pela sua posição geo-estratégica, o
+castelo de Lindoso transformou-se numa praça forte de grande importância,
+sendo então palco de inúmeros combates entre Portugal e Castela, ora ocupado
+por uns ora por outros. Foi nessa época, meados e terceiro quartel do século
+XVII, que o seu sistema defensivo sofreu uma completa reestruturação,
+adaptando-se às novas exigências, determinadas pela introdução da artilharia
+nas tácticas militares da época. Se entre 1641 e 1643 o alcaide de Lindoso,
 Baltasar de Sousa Menezes reparou e fortificou melhor o castelo a expensas
-suas, a mais significativa intervenï¿½ï¿½o foi sem dï¿½vida a executada pelos
-espanhï¿½is anos depois, ao construï¿½rem uma nova muralha em torno da<LIGA TERMO="cerca"> cerca</LIGA> medieval. De facto, a nova<LIGA TERMO="cerca">cerca</LIGA>de traï¿½ado poligonal tipo Vauban, de baixos muros abaluartados,
-com os caracterï¿½sticos ï¿½ngulos avanï¿½ados protegidos por canhoneiras e
+suas, a mais significativa intervenção foi sem dúvida a executada pelos
+espanhóis anos depois, ao construírem uma nova muralha em torno da<LIGA TERMO="cerca"> cerca</LIGA> medieval. De facto, a nova<LIGA TERMO="cerca">cerca</LIGA>de traçado poligonal tipo Vauban, de baixos muros abaluartados,
+com os característicos ângulos avançados protegidos por canhoneiras e
 guaritas, que ainda hoje subsistem, sendo uma obra de grande solidez e
-monumentalidade, tornou a fortaleza praticamente inexpugnï¿½vel. Foi obra da
-traï¿½a e engenho do italiano D. Gasparo Squarciï¿½fico, Marquï¿½s de Buscayolo,
-ao serviï¿½o da Coroa Espanhola desde 1656. Em 1664 os portugueses
+monumentalidade, tornou a fortaleza praticamente inexpugnável. Foi obra da
+traça e engenho do italiano D. Gasparo Squarciáfico, Marquês de Buscayolo,
+ao serviço da Coroa Espanhola desde 1656. Em 1664 os portugueses
 reconquistaram o castelo. A assinatura do Tratado de Paz com a Espanha em
 1668, pondo fim a uma luta sangrenta de vinte e sete anos, veio confirmar a
-nossa independï¿½ncia, reconhecendo-se ao castelo de Lindoso um decisivo papel
-na manutenï¿½ï¿½o do traï¿½ado fronteiriï¿½o nesta regiï¿½o. Por esta ï¿½poca, ou um
+nossa independência, reconhecendo-se ao castelo de Lindoso um decisivo papel
+na manutenção do traçado fronteiriço nesta região. Por esta época, ou um
 pouco mais tarde, as muralhas medievais foram alteadas, criando-se um novo
-sistema de entradas, estacadas e fossos. Instalou-se uma guarniï¿½ï¿½o
-permanente no pï¿½tio interior, com casernas, forno/padaria, armazï¿½ns, moinho
-e oratï¿½rio, servindo um corpo militar composto por cerca de 300 homens
-(conforme documentam plantas dos inï¿½cios e meados do sï¿½culo XVIII). A
-tï¿½cnica construtiva da muralha abaluartada ï¿½ completamente distinta da
-medieval. O <LIGA TERMO="aparelho"> aparelho</LIGA> ï¿½ irregular, formado por
-calhaus sem afeiï¿½oamento de dimensï¿½es muito variï¿½veis, dispondo-se em
-manposteria com juntas muito largas, ï¿½ excepï¿½ï¿½o dos cunhais dos baluartes,
-que apresentam blocos de maiores dimensï¿½es, afeiï¿½oados no encosto das
-esquinas. O miolo da parede ï¿½ preenchido por terra, saibro, cascalho e
-calhaus. A sua espessura nï¿½o ï¿½ uniforme ao longo do perï¿½metro, embora seja
-sempre mais larga na base e mais estreita no tï¿½po - parede interna vertical
-e externa em rampa ou alambor, caracterï¿½stica comum ï¿½s fortificaï¿½ï¿½es deste
+sistema de entradas, estacadas e fossos. Instalou-se uma guarnição
+permanente no pátio interior, com casernas, forno/padaria, armazéns, moinho
+e oratório, servindo um corpo militar composto por cerca de 300 homens
+(conforme documentam plantas dos inícios e meados do século XVIII). A
+técnica construtiva da muralha abaluartada é completamente distinta da
+medieval. O <LIGA TERMO="aparelho"> aparelho</LIGA> é irregular, formado por
+calhaus sem afeiçoamento de dimensões muito variáveis, dispondo-se em
+manposteria com juntas muito largas, à excepção dos cunhais dos baluartes,
+que apresentam blocos de maiores dimensões, afeiçoados no encosto das
+esquinas. O miolo da parede é preenchido por terra, saibro, cascalho e
+calhaus. A sua espessura não é uniforme ao longo do perímetro, embora seja
+sempre mais larga na base e mais estreita no tôpo - parede interna vertical
+e externa em rampa ou alambor, característica comum às fortificações deste
 tipo. Importa referir ainda que o castelo se articulava com um sistema
 defensivo mais complexo: 3 amplas trincheiras e 3 baterias, situadas entre 1
-e 2 kilï¿½metros, em Chï¿½o do Clï¿½rigo, Fundal e Eido Velho, dominando a
-passagem sobre o rio Cabril, faziam a defesa avanï¿½ada do castelo controlando
-o acesso ao vale do rio Lima. A sua construï¿½ï¿½o data de 1801, correspondendo
-ao reforï¿½o defensivo das fronteiras portuguesas, prevenindo o envolvimento
-do paï¿½s nos conflitos internacionais da ï¿½poca, como as invasï¿½es francesas
+e 2 kilómetros, em Chão do Clérigo, Fundal e Eido Velho, dominando a
+passagem sobre o rio Cabril, faziam a defesa avançada do castelo controlando
+o acesso ao vale do rio Lima. A sua construção data de 1801, correspondendo
+ao reforço defensivo das fronteiras portuguesas, prevenindo o envolvimento
+do país nos conflitos internacionais da época, como as invasões francesas
 vieram a confirmar. Este sistema defensivo aparece bem descrito nos diversos
-documentos produzidos a propï¿½sito do conflito de limites da fronteira de
+documentos produzidos a propósito do conflito de limites da fronteira de
 Lindoso, aparecendo inclusivamente representado no mapa da fronteira
-desenhado em 1803 pelo capitï¿½o-engenheiro Custï¿½dio Gomes de Villasboas. Com
-alteraï¿½ï¿½es pouco significativas, resultantes de pequenas obras de adaptaï¿½ï¿½o
-e reforï¿½o, a fortificaï¿½ï¿½o permaneceu ocupada por guarniï¿½ï¿½es militares ao
-longo de todo o sï¿½culo XVIII e atï¿½ 1895, data a partir da qual foi
+desenhado em 1803 pelo capitão-engenheiro Custódio Gomes de Villasboas. Com
+alterações pouco significativas, resultantes de pequenas obras de adaptação
+e reforço, a fortificação permaneceu ocupada por guarnições militares ao
+longo de todo o século XVIII e até 1895, data a partir da qual foi
 desactivada. O seu abandono conduziu ao arruinamento progressivo das
-construï¿½ï¿½es, apesar de em 1932, pelo Decreto 20985, de 7 de Marï¿½o, o castelo
-ter sido classificado como Monumento Nacional. Na dï¿½cada de 40 foi objecto
-de obras de restauro e conservaï¿½ï¿½o por parte da D.G.E.M.N.. Em 18 de
-Fevereiro de 1976, por despacho exarado nos termos do Decreto-Lei nï¿½ 48059,
-de 23 de Novembro de 1967, passou para administraï¿½ï¿½o do Parque Nacional da
-Peneda-Gerï¿½s. Estï¿½ em excelente estado de conservaï¿½ï¿½o.</DESARQ>
-		<INTERE>Trata-se de um monumento de inegï¿½vel significado histï¿½rico regional e de
-excepcional valor cientï¿½fico e patrimonial, fundamental para a compreensï¿½o
-dos povoamento medieval e definiï¿½ï¿½o da fronteira na regiï¿½o, classificado
-como Monumento Nacional (Dec. 20985, de 7-3-1932), sob administraï¿½ï¿½o do
-PNPG. Constitui jï¿½ uma importante atracï¿½ï¿½o turï¿½stica. Foi recentemente
-objecto de um "projecto de tratamento museolï¿½gico e rentabilizaï¿½ï¿½o
-cultural", abrigando actualmente um Centro de Interpretaï¿½ï¿½o do
+construções, apesar de em 1932, pelo Decreto 20985, de 7 de Março, o castelo
+ter sido classificado como Monumento Nacional. Na década de 40 foi objecto
+de obras de restauro e conservação por parte da D.G.E.M.N.. Em 18 de
+Fevereiro de 1976, por despacho exarado nos termos do Decreto-Lei nº 48059,
+de 23 de Novembro de 1967, passou para administração do Parque Nacional da
+Peneda-Gerês. Está em excelente estado de conservação.</DESARQ>
+		<INTERE>Trata-se de um monumento de inegável significado histórico regional e de
+excepcional valor científico e patrimonial, fundamental para a compreensão
+dos povoamento medieval e definição da fronteira na região, classificado
+como Monumento Nacional (Dec. 20985, de 7-3-1932), sob administração do
+PNPG. Constitui já uma importante atracção turística. Foi recentemente
+objecto de um "projecto de tratamento museológico e rentabilização
+cultural", abrigando actualmente um Centro de Interpretação do
 PNPG.</INTERE>
 		<BIBLIO>ALMEIDA, C.A.F.(1987). Alto Minho, (novos guias de Portugal, 5), Editorial
-Presenï¿½a, Lisboa, 1987. </BIBLIO>
+Presença, Lisboa, 1987. </BIBLIO>
 		<BIBLIO>FONTES, L. e REGALO, H.J.L.(1992). "Lindoso, Um Castelo no Parque Nacional
-", Correio da Natureza, 16, Instituto de Conservaï¿½ï¿½o da Natureza, Lisboa,
+", Correio da Natureza, 16, Instituto de Conservação da Natureza, Lisboa,
 1992, pp.18-23. </BIBLIO>
-		<BIBLIO>FONTES, L. e REGALO, H.J.L.(1994). "A componente arqueolï¿½gica do "Projecto
-de Tratamento Museolï¿½gico e Rentabilizaï¿½ï¿½o Cultural" do Castelo do Lindoso",
-Actas V Jornadas Arqueolï¿½gicas (20, 21 e 22 Maio 1993), I, Associaï¿½ï¿½o dos
-Arqueï¿½logos Portugueses, Lisboa, 1994, pp.33-44. </BIBLIO>
+		<BIBLIO>FONTES, L. e REGALO, H.J.L.(1994). "A componente arqueológica do "Projecto
+de Tratamento Museológico e Rentabilização Cultural" do Castelo do Lindoso",
+Actas V Jornadas Arqueológicas (20, 21 e 22 Maio 1993), I, Associação dos
+Arqueólogos Portugueses, Lisboa, 1994, pp.33-44. </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

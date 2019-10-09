@@ -1,69 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
-		<IDENTI>A Mamoa nï¿½10 do Chï¿½o da Cheira; Maciï¿½o do Borrelho </IDENTI>
-		<DESCRI> Monumento megalï¿½tico </DESCRI>
-		<CRONO>Prï¿½-Histï¿½ria Recente</CRONO>
+		<IDENTI>A Mamoa nº10 do Chão da Cheira; Maciço do Borrelho </IDENTI>
+		<DESCRI> Monumento megalítico </DESCRI>
+		<CRONO>Pré-História Recente</CRONO>
 		<LUGAR/>
-		<FREGUE> Gondiï¿½es </FREGUE>
+		<FREGUE> Gondiães </FREGUE>
 		<CONCEL> Vila Verde </CONCEL>
 		<CODADM> 031321 </CODADM>
 		<LATITU> 525,5 </LATITU>
 		<LONGIT> 173,2 </LONGIT>
 		<ALTITU> 471m </ALTITU>
-		<QUADRO>A necrï¿½ploe megalï¿½tica, que integra o monumento, ocupa os planaltos
-superiores de um maciï¿½o, de cerca de 6.5Km de extensï¿½o, no sentido NE-SW. A
-paisagem actual ï¿½ essencialmente aberta, predominando uma vegetaï¿½ï¿½o
-arbustiva e herbï¿½cea, com resquï¿½cios arbï¿½reos. Os planaltos sï¿½o percorridos
+		<QUADRO>A necróploe megalítica, que integra o monumento, ocupa os planaltos
+superiores de um maciço, de cerca de 6.5Km de extensão, no sentido NE-SW. A
+paisagem actual é essencialmente aberta, predominando uma vegetação
+arbustiva e herbácea, com resquícios arbóreos. Os planaltos são percorridos
 por rebanhos de gado bovino, caprino e equino. </QUADRO>
-		<TRAARQ>Os trabalhos arqueolï¿½gicos realizados no local por Ana Bettencourt (U. A. U.
+		<TRAARQ>Os trabalhos arqueológicos realizados no local por Ana Bettencourt (U. A. U.
 M.), consistiram na abertura de quatro valas de 1,5m de largura cada,
-segundo a orientaï¿½ï¿½o dos pontos cardeais.
-A <LIGA TERMO="necrï¿½pole"> necrï¿½pole</LIGA>, de tradiï¿½ï¿½o megalï¿½tica do
-maciï¿½o do Borrelho, que conta actualmente com trintra e seis monumentos
-inventariados e cartografados, integra tï¿½mulos isolados na paisagem ou
+segundo a orientação dos pontos cardeais.
+A <LIGA TERMO="necrópole"> necrópole</LIGA>, de tradição megalítica do
+maciço do Borrelho, que conta actualmente com trintra e seis monumentos
+inventariados e cartografados, integra túmulos isolados na paisagem ou
 agrupados. A <LIGA TERMO="mamoa"> mamoa</LIGA> 10 da Cheira insere-se num
-conjunto de quatro monumentos, que nï¿½o distam entre si mais de 150m e que
-denominamos de nï¿½cleo 3 do Chï¿½o da Cheira.</TRAARQ>
-		<DESARQ>As escavaï¿½ï¿½es efectuadas neste imï¿½vel permitiram concluir que a cï¿½mara deste
-monumento se encontrava muito destruï¿½da. O ï¿½nico elemento localizado
-refere-se ï¿½ base de um esteio in situ, com 0,44m de largura, 0,28m de altura
+conjunto de quatro monumentos, que não distam entre si mais de 150m e que
+denominamos de núcleo 3 do Chão da Cheira.</TRAARQ>
+		<DESARQ>As escavações efectuadas neste imóvel permitiram concluir que a câmara deste
+monumento se encontrava muito destruída. O único elemento localizado
+refere-se à base de um esteio in situ, com 0,44m de largura, 0,28m de altura
 e 0,15m de espessura e situava-se no limite norte do quadrado D4. Uma
-anï¿½lise cuidada deste ortostato, o nï¿½1, demonstrou que o mesmo foi colocado
+análise cuidada deste ortostato, o nº1, demonstrou que o mesmo foi colocado
 numa vala aberta na rocha para esse fim, sendo "travado" com pequenas
-pedras, em forma de cunha. Nï¿½o se detectou qualquer outro tipo de "cama" de
-esteio, nesta ï¿½rea, pelo que ï¿½ impossï¿½vel determinar a tipologia da cï¿½mara
-funerï¿½ria.
-No entanto, a ï¿½rea de dispersï¿½o do espï¿½lio sugere que ela deveria ser
-pequena e talvez composta por quatro ou cinco esteios, interpretaï¿½ï¿½o
-sustentada pelo nï¿½mero de ortostatos e fragmentos dos mesmos, encontrados
-durante a escavaï¿½ï¿½o, de forma dispersa e a diferentes cotas. As dimensï¿½es
-dos fragmentos de esteios nï¿½meros 2 e 3, com cerca de 0,60m de altura mï¿½xima
-e a altura mï¿½dia da couraï¿½a lï¿½tica superficial, com cerca de 0,70m, parecem
-indicar uma cï¿½mara funerï¿½ria de dimensï¿½es reduzidas.
-O espï¿½lio exumado, nomeadamente <LIGA TERMO="micrï¿½lito"> micrï¿½litos</LIGA>,
-<LIGA TERMO="lï¿½mina"> lï¿½minas</LIGA> e <LIGA TERMO="lamela"> lamelas</LIGA>,
-enxï¿½s e cerï¿½mica que assinala decoraï¿½ï¿½o com caneluras, permite situï¿½-lo
-entre o V e o IV milï¿½nio a. C., por comparaï¿½ï¿½o com o de outros monumentos
+pedras, em forma de cunha. Não se detectou qualquer outro tipo de "cama" de
+esteio, nesta área, pelo que é impossível determinar a tipologia da câmara
+funerária.
+No entanto, a área de dispersão do espólio sugere que ela deveria ser
+pequena e talvez composta por quatro ou cinco esteios, interpretação
+sustentada pelo número de ortostatos e fragmentos dos mesmos, encontrados
+durante a escavação, de forma dispersa e a diferentes cotas. As dimensões
+dos fragmentos de esteios números 2 e 3, com cerca de 0,60m de altura máxima
+e a altura média da couraça lítica superficial, com cerca de 0,70m, parecem
+indicar uma câmara funerária de dimensões reduzidas.
+O espólio exumado, nomeadamente <LIGA TERMO="micrólito"> micrólitos</LIGA>,
+<LIGA TERMO="lâmina"> lâminas</LIGA> e <LIGA TERMO="lamela"> lamelas</LIGA>,
+enxós e cerâmica que assinala decoração com caneluras, permite situá-lo
+entre o V e o IV milénio a. C., por comparação com o de outros monumentos
 similares no Norte de Portugal.
-Se as comparaï¿½ï¿½es ao nï¿½vel do espï¿½lio apontam para uma cronologia antiga, jï¿½
-as caracterï¿½sticas arquitectï¿½nicas da <LIGA TERMO="mamoa"> mamoa</LIGA>
-nï¿½10, assim como a ausï¿½ncia de contraforte, as dimensï¿½es reduzidas em
-diï¿½metro e em altura da mamoa, a pequenez da cï¿½mara, aparentemente sem
-corredor e a exï¿½gua monumentalidade, aproximam-no de monumentos com
+Se as comparações ao nível do espólio apontam para uma cronologia antiga, já
+as características arquitectónicas da <LIGA TERMO="mamoa"> mamoa</LIGA>
+nº10, assim como a ausência de contraforte, as dimensões reduzidas em
+diâmetro e em altura da mamoa, a pequenez da câmara, aparentemente sem
+corredor e a exígua monumentalidade, aproximam-no de monumentos com
 cronologia mais tardia, entre os quais se inclui a mamoa 4 de Outeiro de
 Gregos.
-No entanto, o monumento poderï¿½ inscrever-se numa fase antiga do fenï¿½meno
-megalï¿½tico no Norte de Portugal, isto ï¿½, entre os finais do Vï¿½ e os meados
-do IVï¿½ milï¿½nio a.C., dataï¿½ï¿½o concordante com o resultado da anï¿½lise de uma
+No entanto, o monumento poderá inscrever-se numa fase antiga do fenómeno
+megalítico no Norte de Portugal, isto é, entre os finais do Vº e os meados
+do IVº milénio a.C., datação concordante com o resultado da análise de uma
 amostra de madeira procedente das terras do tumulus datada de 4750+/-50BP.</DESARQ>
-		<INTERP>Sepultura com tumulus da necrï¿½pole do Maciï¿½o do Borrelho, datï¿½vel entre
-finais do Vï¿½ e meados do IVï¿½ milï¿½nio a. C.. </INTERP>
+		<INTERP>Sepultura com tumulus da necrópole do Maciço do Borrelho, datável entre
+finais do Vº e meados do IVº milénio a. C.. </INTERP>
 		<DEPOSI>Museu D. Diogo de Sousa.</DEPOSI>
-		<BIBLIO>CRUZ, D. J. (1992) A mamoa 1 de Chï¿½ de Carvalhal (Serra da Aboboreira), Ed.
+		<BIBLIO>CRUZ, D. J. (1992) A mamoa 1 de Chã de Carvalhal (Serra da Aboboreira), Ed.
 Conimbriga/ Anexos 1, Coimbra. </BIBLIO>
-		<BIBLIO> BETTENCOURT, A. M. S. (1991/92). A mamoa nï¿½ 10 do Chï¿½o da Cheira,
-Maciï¿½o do Borrelho - Vila Verde, Cadernos de Arqueologia, nï¿½ 8/9,
+		<BIBLIO> BETTENCOURT, A. M. S. (1991/92). A mamoa nº 10 do Chão da Cheira,
+Maciço do Borrelho - Vila Verde, Cadernos de Arqueologia, nº 8/9,
 Universidade do Minho, Braga, pp.43-66 . </BIBLIO>
 		<AUTOR> Ana M.S. Bettencourt </AUTOR>
 		<DATA>04-FEV-1998</DATA>

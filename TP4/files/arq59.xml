@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
-		<IDENTI> Monte de Riba; Bouï¿½a do Senhor </IDENTI>
+		<IDENTI> Monte de Riba; Bouça do Senhor </IDENTI>
 		<DESCRI>
-			   <LIGA TERMO="necrï¿½pole"> Necrï¿½pole</LIGA> megalï¿½tica </DESCRI>
-		<CRONO>Prï¿½-Histï¿½ria Recente</CRONO>
+			   <LIGA TERMO="necrópole"> Necrópole</LIGA> megalítica </DESCRI>
+		<CRONO>Pré-História Recente</CRONO>
 		<LUGAR> Argande </LUGAR>
 		<FREGUE> Monte </FREGUE>
 		<CONCEL> Fafe </CONCEL>
@@ -13,11 +14,11 @@
 		<LONGIT> 196,7 </LONGIT>
 		<ALTITU> 680m </ALTITU>
 		<ACESSO>Faz-se a partir C. M. 1637. </ACESSO>
-		<QUADRO>Chï¿½ planï¿½ltica entre o Monte de Riba e a Bouï¿½a do Senhor, pertencente ï¿½
-bacia hidrogrï¿½fica do rio Ave.</QUADRO>
-		<DESARQ>Conjunto de quatro <LIGA TERMO="mamoa"> mamoas</LIGA> de dimensï¿½es mï¿½dias,
-com cerca de 10 a 15m de diï¿½metro, todas violadas. </DESARQ>
-		<INTERP> Necrï¿½pole megalï¿½tica.</INTERP>
+		<QUADRO>Chã planáltica entre o Monte de Riba e a Bouça do Senhor, pertencente à
+bacia hidrográfica do rio Ave.</QUADRO>
+		<DESARQ>Conjunto de quatro <LIGA TERMO="mamoa"> mamoas</LIGA> de dimensões médias,
+com cerca de 10 a 15m de diâmetro, todas violadas. </DESARQ>
+		<INTERP> Necrópole megalítica.</INTERP>
 		<AUTOR> Manuela Martins </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

@@ -1,57 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
-		<IDENTI> Fiï¿½es </IDENTI>
+		<IDENTI> Fiães </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
-		<LUGAR> Fiï¿½es</LUGAR>
-		<FREGUE> Fiï¿½es </FREGUE>
-		<CONCEL> Melgaï¿½o </CONCEL>
+		<CRONO> Idade Média</CRONO>
+		<LUGAR> Fiães</LUGAR>
+		<FREGUE> Fiães </FREGUE>
+		<CONCEL> Melgaço </CONCEL>
 		<CODADM> 160307 </CODADM>
 		<LATITU> 570,3 </LATITU>
 		<LONGIT> 193,3 </LONGIT>
 		<ALTITU> 700m </ALTITU>
-		<ACESSO>Na periferia da aldeia de Fiï¿½es, pela estrada municipal que liga
-directamente ï¿½ sede do concelho (passa frente ï¿½ igreja)</ACESSO>
-		<DESARQ>A actual igreja paroquial de Fiï¿½es era o templo do antigo mosteiro de Fiï¿½es,
-cuja origem se desconhece mas que se sabe ter adoptado a regra <LIGA TERMO="cisterciense"> cisterciense</LIGA> em finais do sï¿½culo XII,
-distinguindo-se nos sï¿½culos seguintes pela sua influï¿½ncia e riqueza, como um
-dos estabelecimentos monï¿½sticos mais ricos do reino cujo abade era
-simultaneamente um alto e influente dignatï¿½rio da coroa. No sï¿½culo XVI,
-contudo, estava jï¿½ arruinado. Apesar de reformado, nunca mais atingiu o
-esplendor anterior, vindo a ser oficialmente extinto em 1834. Do sï¿½culo XIII
-deverï¿½ datar a edificaï¿½ï¿½o romï¿½nica da igreja, edifï¿½cio do qual, apesar das
-reconstruï¿½ï¿½es e ampliaï¿½ï¿½es posteriores, em que sobressai a remodelaï¿½ï¿½o
+		<ACESSO>Na periferia da aldeia de Fiães, pela estrada municipal que liga
+directamente à sede do concelho (passa frente à igreja)</ACESSO>
+		<DESARQ>A actual igreja paroquial de Fiães era o templo do antigo mosteiro de Fiães,
+cuja origem se desconhece mas que se sabe ter adoptado a regra <LIGA TERMO="cisterciense"> cisterciense</LIGA> em finais do século XII,
+distinguindo-se nos séculos seguintes pela sua influência e riqueza, como um
+dos estabelecimentos monásticos mais ricos do reino cujo abade era
+simultaneamente um alto e influente dignatário da coroa. No século XVI,
+contudo, estava já arruinado. Apesar de reformado, nunca mais atingiu o
+esplendor anterior, vindo a ser oficialmente extinto em 1834. Do século XIII
+deverá datar a edificação românica da igreja, edifício do qual, apesar das
+reconstruções e ampliações posteriores, em que sobressai a remodelação
 setecentista da fachada, se conservou a volumetria global, toda a <LIGA TERMO="cabeceira"> cabeceira</LIGA> e a parede meridional da <LIGA TERMO="nave"> nave</LIGA>. Do conjunto destaca-se o desenho contido e a
-cï¿½rcea baixa da <LIGA TERMO="cabeceira"> cabeceira</LIGA> tripartida de
-capelas quadrangulares, de <LIGA TERMO="abï¿½bada"> abï¿½bada</LIGA> apontada,
-repetindo aqui o caracterï¿½stico modelo <LIGA TERMO="cisterciense">cisterciense</LIGA>, bem como os pouco luminosos vï¿½os dos portais e <LIGA TERMO="fresta"> frestas</LIGA> da fachada Sul. Na decoraï¿½ï¿½o arquitectï¿½nica
-releva, adentro da caracterï¿½stica austeridade, o <LIGA TERMO="entabelamento"> entabelamento</LIGA> exterior da capela colateral
-Norte, com <LIGA TERMO="cornija"> cornija</LIGA> sobre <LIGA TERMO="arcatura"> arcaturas</LIGA> apoiadas em <LIGA TERMO="modilhï¿½o">modilhï¿½es</LIGA> "em proa". Refira-se ainda, abandonada no exterior, a tampa
-de sepultura medieval decorada com uma cruz florenciada, cujo pï¿½ longo
-separa duas regras de uma epï¿½grafe relativa ao epitï¿½fio de um Martinus
+cércea baixa da <LIGA TERMO="cabeceira"> cabeceira</LIGA> tripartida de
+capelas quadrangulares, de <LIGA TERMO="abóbada"> abóbada</LIGA> apontada,
+repetindo aqui o característico modelo <LIGA TERMO="cisterciense">cisterciense</LIGA>, bem como os pouco luminosos vãos dos portais e <LIGA TERMO="fresta"> frestas</LIGA> da fachada Sul. Na decoração arquitectónica
+releva, adentro da característica austeridade, o <LIGA TERMO="entabelamento"> entabelamento</LIGA> exterior da capela colateral
+Norte, com <LIGA TERMO="cornija"> cornija</LIGA> sobre <LIGA TERMO="arcatura"> arcaturas</LIGA> apoiadas em <LIGA TERMO="modilhão">modilhões</LIGA> "em proa". Refira-se ainda, abandonada no exterior, a tampa
+de sepultura medieval decorada com uma cruz florenciada, cujo pé longo
+separa duas regras de uma epígrafe relativa ao epitáfio de um Martinus
 Iohanis, natural de Cavaleiros e falecido em 1 de Junho de 1316.</DESARQ>
-		<INTERP>Igreja de fundaï¿½ï¿½o medieval: sï¿½c. XIII.</INTERP>
-		<INTERE>Trata-se de um monumento de inegï¿½vel significado histï¿½rico regional,
-classificado como M.N. Dec. De 16-6-1910 e 129/77 de 29-9) e de razoï¿½vel
-valor cientï¿½fico e patrimonial, fundamental nï¿½o sï¿½ para o estudo da difusï¿½o
-das arquitectura e decoraï¿½ï¿½o romï¿½nicas, como para o conhecimento da
-organizaï¿½ï¿½o e evoluï¿½ï¿½o do povoamento medieval nesta franja fronteiriï¿½a
+		<INTERP>Igreja de fundação medieval: sèc. XIII.</INTERP>
+		<INTERE>Trata-se de um monumento de inegável significado histórico regional,
+classificado como M.N. Dec. De 16-6-1910 e 129/77 de 29-9) e de razoável
+valor científico e patrimonial, fundamental não só para o estudo da difusão
+das arquitectura e decoração românicas, como para o conhecimento da
+organização e evolução do povoamento medieval nesta franja fronteiriça
 portuguesa.</INTERE>
-		<BIBLIO>ALMEIDA, C.A.F (1968) Vias Medievais de Entre Douro e Minho, Dissertaï¿½ï¿½o de
-Licenciatura em Histï¿½ria (policopiada), Faculdade de Letras da Universidade
+		<BIBLIO>ALMEIDA, C.A.F (1968) Vias Medievais de Entre Douro e Minho, Dissertação de
+Licenciatura em História (policopiada), Faculdade de Letras da Universidade
 do Porto, Porto, 1968. </BIBLIO>
-		<BIBLIO> ALMEIDA, C.A.F (1978a) Arquitectura Romï¿½nica de Entre Douro e
+		<BIBLIO> ALMEIDA, C.A.F (1978a) Arquitectura Românica de Entre Douro e
 Minho, Tese de Doutoramento (policopiada), Faculdade de Letras da
 Universidade do Porto, Porto, 1978. </BIBLIO>
-		<BIBLIO> ALMEIDA, C.A.F. (1986) Histï¿½ria da Arte em Portugal. 2:
-romï¿½nico Lisboa, 1986, pp.104. </BIBLIO>
+		<BIBLIO> ALMEIDA, C.A.F. (1986) História da Arte em Portugal. 2:
+românico Lisboa, 1986, pp.104. </BIBLIO>
 		<BIBLIO> ALMEIDA, C.A.F.(1987) Alto Minho, (novos guias de Portugal, 5),
-Editorial Presenï¿½a, Lisboa, 1987. </BIBLIO>
-		<BIBLIO> BARROCA, M.J.1987 Necrï¿½poles e Sepulturas Medievais de
-Entre-Douro-E-Minho (sï¿½culos v a XV), Provas de Aptidï¿½o Pedagï¿½gica e
-Capacidade Cientï¿½fica, (policopiado), Faculdade de Letras da Universidade do
+Editorial Presença, Lisboa, 1987. </BIBLIO>
+		<BIBLIO> BARROCA, M.J.1987 Necrópoles e Sepulturas Medievais de
+Entre-Douro-E-Minho (séculos v a XV), Provas de Aptidão Pedagógica e
+Capacidade Científica, (policopiado), Faculdade de Letras da Universidade do
 Porto, Porto,1987. </BIBLIO>
-		<AUTOR> Luï¿½s Fontes </AUTOR>
+		<AUTOR> Luís Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

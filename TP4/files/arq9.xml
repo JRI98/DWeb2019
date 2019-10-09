@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
-		<IDENTI> Castro de Airï¿½/ Castelo de Bastuï¿½o </IDENTI>
+		<IDENTI> Castro de Airó/ Castelo de Bastuço </IDENTI>
 		<DESCRI>
 			   <LIGA TERMO="povoado fortificado"> Povoado
 fortificado</LIGA>
 		</DESCRI>
-		<CRONO> Proto-Histï¿½ria / Romanizaï¿½ï¿½o</CRONO>
+		<CRONO> Proto-História / Romanização</CRONO>
 		<LUGAR> Outeiro do Castro </LUGAR>
-		<FREGUE> Airï¿½ </FREGUE>
+		<FREGUE> Airó </FREGUE>
 		<CONCEL> Barcelos </CONCEL>
 		<CODADM> 030205 </CODADM>
 		<LATITU> 506,1 </LATITU>
 		<LONGIT>165,7 </LONGIT>
 		<ALTITU> 222m </ALTITU>
-		<ACESSO>O acesso pode fazer-se pela encosta Sul do monte, que liga o esporï¿½o ï¿½
+		<ACESSO>O acesso pode fazer-se pela encosta Sul do monte, que liga o esporão à
 serra.</ACESSO>
-		<QUADRO>Localiza-se no extremo Oeste da Serra de Airï¿½, ocupando um esporï¿½o virado a
-NO, que domina a confluï¿½ncia dos rios Covo e Cï¿½vado. </QUADRO>
-		<TRAARQ> Nï¿½o sï¿½o conhecidos trabalhos arqueolï¿½gicos no local. </TRAARQ>
-		<DESARQ>Na vertente Norte do monte registam-se vestï¿½gios de 3 linhas de muralhas. Na
-superfï¿½cie encontram-se abundantes fragmentos de <LIGA TERMO="tï¿½gula">tï¿½gulas</LIGA>, imbrices e <LIGA TERMO="cerï¿½mica micï¿½cea"> cerï¿½mica
-micï¿½cea</LIGA>, feita a torno. Entre a primeira e a segunda linhas de
+		<QUADRO>Localiza-se no extremo Oeste da Serra de Airó, ocupando um esporão virado a
+NO, que domina a confluência dos rios Covo e Cávado. </QUADRO>
+		<TRAARQ> Não são conhecidos trabalhos arqueológicos no local. </TRAARQ>
+		<DESARQ>Na vertente Norte do monte registam-se vestígios de 3 linhas de muralhas. Na
+superfície encontram-se abundantes fragmentos de <LIGA TERMO="tégula">tégulas</LIGA>, imbrices e <LIGA TERMO="cerâmica micácea"> cerâmica
+micácea</LIGA>, feita a torno. Entre a primeira e a segunda linhas de
 muralhas foram descobertas uma<LIGA TERMO="ara"> ara</LIGA>em granito e uma
-pedra decorada. A<LIGA TERMO="ara"> ara</LIGA> estï¿½ mutilada, apresentando a
+pedra decorada. A<LIGA TERMO="ara"> ara</LIGA> está mutilada, apresentando a
 parte superior muito desgastada. Apenas se conservam bem as molduras das
-faces laterais. Possuï¿½a uma inscriï¿½ï¿½o, actualmente ilegï¿½vel, pois sobre o
-texto inicial foram feitas gravaï¿½ï¿½es modernas. A pedra decorada tem a forma
-de meio cilindro, com uma face plana. A decoraï¿½ï¿½o ï¿½ composta por trï¿½s SSS
+faces laterais. Possuía uma inscrição, actualmente ilegível, pois sobre o
+texto inicial foram feitas gravações modernas. A pedra decorada tem a forma
+de meio cilindro, com uma face plana. A decoração é composta por três SSS
 encadeados.</DESARQ>
 		<INTERP>
 			   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
 romanizado.</INTERP>
-		<BIBLIO> FONSECA, T. (1948). O concelho de Barcelos Aquï¿½m e Alï¿½m Cï¿½vado,
+		<BIBLIO> FONSECA, T. (1948). O concelho de Barcelos Aquém e Além Cávado,
 Barcelos, 2 Vol., pp. 13; 65-66; </BIBLIO>
-		<BIBLIO>Cï¿½SAR, M. (1964). O Castelo da Pena (Bastuï¿½o). Histï¿½ria e Lenda, O distrito
+		<BIBLIO>CÈSAR, M. (1964). O Castelo da Pena (Bastuço). História e Lenda, O distrito
 de Braga., 2 (3-4), Braga, pp.15-22; </BIBLIO>
-		<BIBLIO>SOEIRO, T. (1983). Inventï¿½rio arqueolï¿½gico. O outeiro do castro
-(Airï¿½-Barcelos), Barcelos-Revista,1 (2), Barcelos, pp.67-80. </BIBLIO>
-		<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histï¿½rico e a romanizaï¿½ï¿½o da Bacia do
-Mï¿½dio Cï¿½vado, Cadernos de Arqueologia - Monografias, 5, Universidade do
+		<BIBLIO>SOEIRO, T. (1983). Inventário arqueológico. O outeiro do castro
+(Airó-Barcelos), Barcelos-Revista,1 (2), Barcelos, pp.67-80. </BIBLIO>
+		<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-Histórico e a romanização da Bacia do
+Médio Cávado, Cadernos de Arqueologia - Monografias, 5, Universidade do
 Minho, Braga, pp. 73. </BIBLIO>
 		<AUTOR> Manuela Martins </AUTOR>
 		<DATA>04-Fev-1998</DATA>

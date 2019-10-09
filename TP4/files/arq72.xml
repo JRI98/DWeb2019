@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Monte Redondo </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Monte Redondo </LUGAR>
 		<FREGUE> Monte Redondo </FREGUE>
 		<CONCEL> Arcos de Valdevez </CONCEL>
@@ -11,27 +12,27 @@
 		<LATITU> 542,1 </LATITU>
 		<LONGIT> 173,2 </LONGIT>
 		<ALTITU> 227m </ALTITU>
-		<ACESSO>Junto ï¿½ aldeia de Monte Redondo. O acesso faz-se por estrada municipal, a
-partir da estrada nacional EN.303 (ligaï¿½ï¿½o Arcos de Valdevez - Paredes de
-Coura) ou da EN.202 (ligaï¿½ï¿½o Arcos de Valdevez - Ponte de Lima). O monumento
-nï¿½o estï¿½ sinalizado.</ACESSO>
+		<ACESSO>Junto à aldeia de Monte Redondo. O acesso faz-se por estrada municipal, a
+partir da estrada nacional EN.303 (ligação Arcos de Valdevez - Paredes de
+Coura) ou da EN.202 (ligação Arcos de Valdevez - Ponte de Lima). O monumento
+não está sinalizado.</ACESSO>
 		<DESARQ>Nas paredes da <LIGA TERMO="nave"> nave</LIGA> da igreja paroquial de S.
 Bartolomeu de Monte Redondo conservam-se, testemunhando uma antiga
-edificaï¿½ï¿½o romï¿½nica, vestï¿½gios dos paramentos coroados por cachorradas com
-<LIGA TERMO="modilhï¿½o"> modilhï¿½es</LIGA> esculpidos, dominando os motivos
-geomï¿½tricos e fitomï¿½rficos. ï¿½ o que resta da edificaï¿½ï¿½o medieval,
-profundamente alterada por sucessivas remodelaï¿½ï¿½es, em relaï¿½ï¿½o ï¿½ qual nï¿½o se
-conhece qualquer referï¿½ncia ou documento coevo que permita conhecer melhor a
-sua histï¿½ria.</DESARQ>
-		<INTERP>Igreja de fundaï¿½ï¿½o medieval.</INTERP>
-		<INTERE>Trata-se de um monumento sem relevï¿½ncia histï¿½rica local e de escasso valor
-cientï¿½fico e patrimonial, interessando apenas ï¿½ compreensï¿½o da difusï¿½o do
-<LIGA TERMO="romï¿½nico"> romï¿½nico</LIGA> na regiï¿½o. </INTERE>
-		<BIBLIO>ALMEIDA,C.A.F (1978a) Arquitectura Romï¿½nica de Entre Douro e Minho, Tese de
+edificação românica, vestígios dos paramentos coroados por cachorradas com
+<LIGA TERMO="modilhão"> modilhões</LIGA> esculpidos, dominando os motivos
+geométricos e fitomórficos. É o que resta da edificação medieval,
+profundamente alterada por sucessivas remodelações, em relação à qual não se
+conhece qualquer referência ou documento coevo que permita conhecer melhor a
+sua história.</DESARQ>
+		<INTERP>Igreja de fundação medieval.</INTERP>
+		<INTERE>Trata-se de um monumento sem relevância histórica local e de escasso valor
+científico e patrimonial, interessando apenas à compreensão da difusão do
+<LIGA TERMO="românico"> românico</LIGA> na região. </INTERE>
+		<BIBLIO>ALMEIDA,C.A.F (1978a) Arquitectura Românica de Entre Douro e Minho, Tese de
 Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
 Porto, 1978. </BIBLIO>
 		<BIBLIO> BARREIROS, M.A.(1926)Egrejas e Capelas Romanicas da Ribeira Lima,
-Ediï¿½ï¿½es Marques Abreu, Porto, 1926. </BIBLIO>
-		<AUTOR> Luï¿½s Fontes </AUTOR>
+Edições Marques Abreu, Porto, 1926. </BIBLIO>
+		<AUTOR> Luís Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

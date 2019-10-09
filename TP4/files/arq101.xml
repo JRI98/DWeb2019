@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Capela da Senhora das Neves </IDENTI>
-		<DESCRI> Capela; <LIGA TERMO="necrï¿½pole"> Necrï¿½pole</LIGA>
+		<DESCRI> Capela; <LIGA TERMO="necrópole"> Necrópole</LIGA>
 		</DESCRI>
-		<CRONO>Idade Mï¿½dia</CRONO>
+		<CRONO>Idade Média</CRONO>
 		<LUGAR> Capela da Senhora das Neves </LUGAR>
 		<FREGUE> Montalegre </FREGUE>
 		<CONCEL> Montalegre </CONCEL>
@@ -12,34 +13,34 @@
 		<LATITU> 542,2 </LATITU>
 		<LONGIT> 230,3 </LONGIT>
 		<ALTITU> 1000m </ALTITU>
-		<ACESSO>Cerca de 3 km para Nordeste da vila de Montalegre. O acesso ï¿½ fï¿½cil,
+		<ACESSO>Cerca de 3 km para Nordeste da vila de Montalegre. O acesso é fácil,
 fazendo-se directamente a partir da estrada municipal alcatroada que liga a
-vila de Montalegre ï¿½ aldeia de Padornelos - saï¿½da em direcï¿½ï¿½o a Vilar de
-Perdizes, cruzando para Padornelos em Crasto. O monumento nï¿½o estï¿½
+vila de Montalegre à aldeia de Padornelos - saída em direcção a Vilar de
+Perdizes, cruzando para Padornelos em Crasto. O monumento não está
 sinalizado.</ACESSO>
-		<DESARQ>No recinto da capela da Senhora das Neves conservam-se dois <LIGA TERMO="sarcï¿½fago"> sarcï¿½fagos</LIGA> granï¿½ticos "tipo banheira" (um inteiro
-e metade de outro), junto ï¿½s ruï¿½nas da edificaï¿½ï¿½o fronteira ï¿½ capela e
+		<DESARQ>No recinto da capela da Senhora das Neves conservam-se dois <LIGA TERMO="sarcófago"> sarcófagos</LIGA> graníticos "tipo banheira" (um inteiro
+e metade de outro), junto às ruínas da edificação fronteira à capela e
 portanto deslocados do seu contexto original. Nos muros e terrenos
-circundantes encontram-se fragmentos de tegulae (telha de tradiï¿½ï¿½o romana),
-pedras afeiï¿½oadas e um fragmento de fuste de coluna. Embora nï¿½o se conheï¿½a
-qualquer referï¿½ncia documental pode propor-se, com base nestes indï¿½cios, a
-existï¿½ncia de um povoado nas proximidades, ao qual deveriam associar-se as
-sepulturas descritas, implantadas nas imediaï¿½ï¿½es da capela, e que poderï¿½o
-ser apenas parte de uma <LIGA TERMO="necrï¿½pole"> necrï¿½pole</LIGA>,
-tipologicamente datï¿½vel dos sï¿½culos X-XIII. Nesta perspectiva poderï¿½
-aceitar-se que a capela da Senhora das Neves date jï¿½ dos sï¿½culos centrais da
-Idade Mï¿½dia, servindo nessa ï¿½poca senï¿½o como igreja paroquial pelo menos
+circundantes encontram-se fragmentos de tegulae (telha de tradição romana),
+pedras afeiçoadas e um fragmento de fuste de coluna. Embora não se conheça
+qualquer referência documental pode propor-se, com base nestes indícios, a
+existência de um povoado nas proximidades, ao qual deveriam associar-se as
+sepulturas descritas, implantadas nas imediações da capela, e que poderão
+ser apenas parte de uma <LIGA TERMO="necrópole"> necrópole</LIGA>,
+tipologicamente datável dos séculos X-XIII. Nesta perspectiva poderá
+aceitar-se que a capela da Senhora das Neves date já dos séculos centrais da
+Idade Média, servindo nessa época senão como igreja paroquial pelo menos
 como templo local. Tratar-se-ia de um povoado medieval semelhante ao que
-aparece referido nas Inquiriï¿½ï¿½es de 1258 como heremita Sancti Fructuosi de
+aparece referido nas Inquirições de 1258 como heremita Sancti Fructuosi de
 Barrosino, do qual apenas resta a capela de S. Frutuoso, hoje isolada ao
 centro da ampla veiga de Montalegre. O monumento apresenta-se razoavelmente
 conservado.</DESARQ>
-		<INTERP>Capela e necrï¿½pole de fundaï¿½ï¿½o tardo-medieval.</INTERP>
-		<INTERE>Embora razoavelmente conservados, os elementos descritos nï¿½o tï¿½m, no
+		<INTERP>Capela e necrópole de fundação tardo-medieval.</INTERP>
+		<INTERE>Embora razoavelmente conservados, os elementos descritos não têm, no
 contexto regional, grande valor patrimonial nem revestem particular
-significado histï¿½rico. </INTERE>
-		<BIBLIO> FONTES, L.(1992). Sï¿½tios e Achados Arqueolï¿½gicos do Concelho de
-Montalegre. Braga, 1992 (ediï¿½ï¿½o policopiada da CCRN - Porto). </BIBLIO>
+significado histórico. </INTERE>
+		<BIBLIO> FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Ribeira da Pala; Dornelas; Paredes Secas </IDENTI>
 		<DESCRI>
-			   <LIGA TERMO="miliï¿½rio"> Miliï¿½rio</LIGA>
+			   <LIGA TERMO="miliário"> Miliário</LIGA>
 		</DESCRI>
-		<CRONO> Romanizaï¿½ï¿½o </CRONO>
+		<CRONO> Romanização </CRONO>
 		<LUGAR> Na margem direita da Ribeira da Pala </LUGAR>
 		<FREGUE> Paredes Secas </FREGUE>
 		<CONCEL> Amares </CONCEL>
@@ -13,15 +14,15 @@
 		<LATITU> 520,9 </LATITU>
 		<LONGIT> 183,6 </LONGIT>
 		<ALTITU> 260m </ALTITU>
-		<ACESSO> O miliï¿½rio encontra-se no adro da igreja paroquial de Paredes
+		<ACESSO> O miliário encontra-se no adro da igreja paroquial de Paredes
 Secas. </ACESSO>
-		<QUADRO>O miliï¿½rio foi encontrado, em 1957, na margem direita da Ribeira da Pala, em
-Dornelas, nï¿½o muito longe do local onde tradicionalmente se admite a
+		<QUADRO>O miliário foi encontrado, em 1957, na margem direita da Ribeira da Pala, em
+Dornelas, não muito longe do local onde tradicionalmente se admite a
 passagem da Via Nova. </QUADRO>
-		<DESARQ> O miliï¿½rio estï¿½ fracturado e apresenta a inscriï¿½ï¿½o muito gasta. A
-sua leitura ï¿½ difï¿½cil, devido, tambï¿½m, ï¿½ qualidade do granito, que apresenta
-muitos cristais de quartzo, que dificultaram a gravaï¿½ï¿½o. Altura: 159;
-diï¿½metro: 66; Letras: 7 e 8.
+		<DESARQ> O miliário está fracturado e apresenta a inscrição muito gasta. A
+sua leitura é difícil, devido, também, à qualidade do granito, que apresenta
+muitos cristais de quartzo, que dificultaram a gravação. Altura: 159;
+diâmetro: 66; Letras: 7 e 8.
 
 [IMP(erator) CAES(ar) G(aius)] IVLIV[S] V[ERVS] / MAXIMINVS P(ius).
 F(elix).AVG(ustus). TRIB(unicia) PO / [TE]S[TATE]. [CO](n)S(ul). [PRO]
@@ -32,18 +33,18 @@ F(elici) AVG(usti) / CVRANTE Q(uinto) DECI[O VALER(iano)] / LEG(ato)
 AVG(usti) PR(o) [PR(etore)] / [BR]AC(ara) AVG(usta) M(ilia) P(assuum) XII
 (duodecim).
 
-Imperador Cï¿½sar Gaio Jï¿½lio Vero Maximino, Pio, Feliz, Augusto, dotado de
-poder tribunï¿½cio, cï¿½nsul, procï¿½nsul, e Gaio Jï¿½lio Vero Mï¿½ximo, mui nobre
-Cï¿½sar, Germï¿½nico Mï¿½ximo, Dï¿½cico Mï¿½ximo, Sarmï¿½ntico Mï¿½ximo, Prï¿½ncipe da
-juventude, filho do nosso senhor Imperador Gaio Jï¿½lio Vero Mï¿½ximo, Pio,
-Feliz, Augusto. Sendo encarregado Quinto Dï¿½cio Valeriano, legado de Augusto,
-propretor. De Braga sï¿½o doze milhas. </DESARQ>
-		<INTERP> Miliï¿½rio pertencente ï¿½ Via Nova (Geira), datado de
+Imperador César Gaio Júlio Vero Maximino, Pio, Feliz, Augusto, dotado de
+poder tribunício, cônsul, procônsul, e Gaio Júlio Vero Máximo, mui nobre
+César, Germânico Máximo, Dácico Máximo, Sarmântico Máximo, Príncipe da
+juventude, filho do nosso senhor Imperador Gaio Júlio Vero Máximo, Pio,
+Feliz, Augusto. Sendo encarregado Quinto Décio Valeriano, legado de Augusto,
+propretor. De Braga são doze milhas. </DESARQ>
+		<INTERP> Miliário pertencente à Via Nova (Geira), datado de
 236-238.</INTERP>
-		<BIBLIO> CUNHA, A. R. (1961). Um miliï¿½rio inï¿½dito, O Distrito de Braga, 1
+		<BIBLIO> CUNHA, A. R. (1961). Um miliário inédito, O Distrito de Braga, 1
 (3-4), Braga, pp.319-334. </BIBLIO>
-		<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histï¿½rico e a Romanizaï¿½ï¿½o da
-Bacia do Curso do Mï¿½dio Cï¿½vado, Cadernos de Arqueologia - Monografias, 5,
+		<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da
+Bacia do Curso do Médio Cávado, Cadernos de Arqueologia - Monografias, 5,
 Universidade do Minho, Braga, pp. 68-69. </BIBLIO>
 		<AUTOR>Manuela Martins</AUTOR>
 		<DATA>04-FEV-1998</DATA>

@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
-		<IDENTI> Castro de Santa Lucrï¿½cia de Algeriz; Santa Catarina</IDENTI>
+		<IDENTI> Castro de Santa Lucrécia de Algeriz; Santa Catarina</IDENTI>
 		<DESCRI>
 			   <LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
 		</DESCRI>
-		<CRONO> Proto-Histï¿½ria / Romanizï¿½ï¿½o</CRONO>
+		<CRONO> Proto-História / Romanizção</CRONO>
 		<LUGAR> Monte do Galho ou Monte de Vasconcelos </LUGAR>
-		<FREGUE> Santa Lucrï¿½cia de Algeriz </FREGUE>
+		<FREGUE> Santa Lucrécia de Algeriz </FREGUE>
 		<CONCEL> Braga </CONCEL>
 		<CODADM> 030339 </CODADM>
 		<LATITU> 513,6 </LATITU>
 		<LONGIT> 179,1 </LONGIT>
 		<ALTITU> 200m </ALTITU>
 		<QUADRO>O monte em que assenta o <LIGA TERMO="castro"> castro</LIGA> corresponde ao
-extremo Norte de um esporï¿½o montanhoso, orientado Norte/ Sul, conhecido pelo
+extremo Norte de um esporão montanhoso, orientado Norte/ Sul, conhecido pelo
 nome de Monte do Galho e de Monte de Vasconcelos. O povoado encontra-se
-virado ao vale do Cï¿½vado, dominando a larga bacia daquele rio.</QUADRO>
-		<TRAARQ>Nï¿½o sï¿½o conhecidos quaisquer trabalhos arqueolï¿½gicos no local.</TRAARQ>
-		<DESARQ>Com excepï¿½ï¿½o do lado Sul, o monte possui vertentes abruptas, que conferem ao
-povoado boas defesas naturais. Actualmente, sï¿½o visï¿½veis trï¿½s linhas de
-muralhas, mais ou menos concï¿½ntricas, que definem tabuleiros artificiais. No
-entanto, a densa vegetaï¿½ï¿½o que cobre o monte nï¿½o deixa perceber quaisquer
-vestï¿½gios de estruturas habitacionais. ï¿½ superfï¿½cie do povoado recolhem-se
-alguns fragmentos de <LIGA TERMO="cerï¿½mica indï¿½gena"> cerï¿½mica
-indï¿½gena</LIGA> de fabrico <LIGA TERMO="micï¿½ceo"> micï¿½ceo</LIGA>.</DESARQ>
-		<INTERP> Povoado, fortificado proto-histï¿½rico. </INTERP>
-		<BIBLIO> MARTINS, M. (1990).O Povoamento Proto-Histï¿½rico e a Romanizaï¿½ï¿½o da
-Bacia do Curso Mï¿½dio do Cï¿½vado, Cadernos de Arqueologia - Monografias, 5,
+virado ao vale do Cávado, dominando a larga bacia daquele rio.</QUADRO>
+		<TRAARQ>Não são conhecidos quaisquer trabalhos arqueológicos no local.</TRAARQ>
+		<DESARQ>Com excepção do lado Sul, o monte possui vertentes abruptas, que conferem ao
+povoado boas defesas naturais. Actualmente, são visíveis três linhas de
+muralhas, mais ou menos concêntricas, que definem tabuleiros artificiais. No
+entanto, a densa vegetação que cobre o monte não deixa perceber quaisquer
+vestígios de estruturas habitacionais. À superfície do povoado recolhem-se
+alguns fragmentos de <LIGA TERMO="cerâmica indígena"> cerâmica
+indígena</LIGA> de fabrico <LIGA TERMO="micáceo"> micáceo</LIGA>.</DESARQ>
+		<INTERP> Povoado, fortificado proto-histórico. </INTERP>
+		<BIBLIO> MARTINS, M. (1990).O Povoamento Proto-Histórico e a Romanização da
+Bacia do Curso Médio do Cávado, Cadernos de Arqueologia - Monografias, 5,
 Universidade do Minho, Braga , pp.86-87. </BIBLIO>
-		<BIBLIO> FONTES, L. (1993). Inventï¿½rio de Sï¿½tios e Achados arqueolï¿½gicos do
-Concelho de Braga, Mï¿½mia, 3ï¿½ Sï¿½rie, Ano 1, Braga, pp. 72. </BIBLIO>
+		<BIBLIO> FONTES, L. (1993). Inventário de Sítios e Achados arqueológicos do
+Concelho de Braga, Mímia, 3ª Série, Ano 1, Braga, pp. 72. </BIBLIO>
 		<AUTOR/>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

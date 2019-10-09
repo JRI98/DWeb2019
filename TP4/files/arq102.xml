@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Portelo </IDENTI>
 		<DESCRI> Castelo </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Coto de Sedim </LUGAR>
 		<FREGUE> Padornelos </FREGUE>
 		<CONCEL> Montalegre </CONCEL>
@@ -11,45 +12,45 @@
 		<LATITU> 547,6 </LATITU>
 		<LONGIT> 230,6 </LONGIT>
 		<ALTITU>1259m </ALTITU>
-		<ACESSO>Cerca de 600 metros para Norte da aldeia de Sendim. O acesso faz-se a pï¿½
+		<ACESSO>Cerca de 600 metros para Norte da aldeia de Sendim. O acesso faz-se a pé
 (cerca de 10 minutos), por caminho carreteiro, a partir da aldeia de Sendim.
 A esta acede-se por um ramal alcatroado da recente estrada municipal que
-liga a vila de Montalegre ï¿½ fronteira galega, por Sendim. O monumento nï¿½o
-estï¿½ sinalizado.</ACESSO>
-		<DESARQ>O castelo do Portelo foi uma importante praï¿½a forte fronteiriï¿½a garantindo,
+liga a vila de Montalegre à fronteira galega, por Sendim. O monumento não
+está sinalizado.</ACESSO>
+		<DESARQ>O castelo do Portelo foi uma importante praça forte fronteiriça garantindo,
 com os castelos da Piconha, Montalegre, Monforte de Rio Frio e Chaves, a
-defesa dos acessos aos vales do Cï¿½vado e Tï¿½mega, tanto nos tempos medievais
-como no conturbado sï¿½culo XVII da "restauraï¿½ï¿½o", na sequï¿½ncia de cujas
-guerras foi destruï¿½do. Hoje identificam-se tï¿½nues vestï¿½gios de muralhas e
-entalhes nas penedias do topo da elevaï¿½ï¿½o, recolhendo-se fragmentos de
-cerï¿½mica comum nas encostas. O castelo parece ter sido erguido sobre as
-ruï¿½nas de um antigo <LIGA TERMO="castro romanizado"> castro
+defesa dos acessos aos vales do Cávado e Tâmega, tanto nos tempos medievais
+como no conturbado século XVII da "restauração", na sequência de cujas
+guerras foi destruído. Hoje identificam-se ténues vestígios de muralhas e
+entalhes nas penedias do topo da elevação, recolhendo-se fragmentos de
+cerâmica comum nas encostas. O castelo parece ter sido erguido sobre as
+ruínas de um antigo <LIGA TERMO="castro romanizado"> castro
 romanizado</LIGA>, ocupando a parte superior de um monte que domina a base
-da vertente poente da serra do Larouco, dominando a via natural de trï¿½nsito
-entre os vales dos rios Cï¿½vado e Salas, sobre os quais disfruta de uma ampla
-panorï¿½mica. Dos tempos medievais nï¿½o se conhece documentaï¿½ï¿½o que permita
-traï¿½ar a sua histï¿½ria. No primeiro quartel do sï¿½culo XVI foi desenhado por
+da vertente poente da serra do Larouco, dominando a via natural de trânsito
+entre os vales dos rios Cávado e Salas, sobre os quais disfruta de uma ampla
+panorâmica. Dos tempos medievais não se conhece documentação que permita
+traçar a sua história. No primeiro quartel do século XVI foi desenhado por
 Duarte Darmas, que registou com pormenor as planta e vistas laterais da
-fortificaï¿½ï¿½o. Trata-se de uma fortificaï¿½ï¿½o simples, com<LIGA TERMO="cerca">cerca</LIGA> de planta sub-rectangular ao centro da qual, coroando a penedia
+fortificação. Trata-se de uma fortificação simples, com<LIGA TERMO="cerca">cerca</LIGA> de planta sub-rectangular ao centro da qual, coroando a penedia
 do topo do monte, se levanta isolada a torre de menagem. O conjunto revela
-um modelos arquitectï¿½nico que podemos classificar de "<LIGA TERMO="romï¿½nico"> romï¿½nico</LIGA>", caracterï¿½stico dos sï¿½culos XI-XII. ï¿½
-ï¿½poca do desenho de Duarte Darmas, a torre de menagem estava em ruï¿½nas, como
-se percebe pelas brechas desenhadas no lado Norte. A aldeia de Sendim ï¿½
+um modelos arquitectónico que podemos classificar de "<LIGA TERMO="românico"> românico</LIGA>", característico dos séculos XI-XII. À
+época do desenho de Duarte Darmas, a torre de menagem estava em ruínas, como
+se percebe pelas brechas desenhadas no lado Norte. A aldeia de Sendim é
 representada a Sudoeste, afastada da fortaleza. </DESARQ>
-		<INTERP>Castelo de fundaï¿½ï¿½o medieval dos sï¿½culos XI-XII</INTERP>
-		<INTERE>Apesar do inegï¿½vel significado histï¿½rico regional e mesmo nacional do
-castelo de Portelo, do monumento praticamente nada resta e o sï¿½tio, embora
-beneficie de um excelente enquadramento paisagï¿½stico, estï¿½ muito destruï¿½do,
-designadamente por tentativas recentes de florestaï¿½ï¿½o.</INTERE>
+		<INTERP>Castelo de fundação medieval dos séculos XI-XII</INTERP>
+		<INTERE>Apesar do inegável significado histórico regional e mesmo nacional do
+castelo de Portelo, do monumento praticamente nada resta e o sítio, embora
+beneficie de um excelente enquadramento paisagístico, está muito destruído,
+designadamente por tentativas recentes de florestação.</INTERE>
 		<BIBLIO>ALMEIDA, J.(1943). O Livro das Fortalezas de Duarte Darmas. Lisboa, 1943,
 pp.371-386. </BIBLIO>
 		<BIBLIO> COSTA, J.G.(1968). Montalegre e Terras de Barroso. Montalegre,
 1968. </BIBLIO>
-		<BIBLIO> GARCIA MAï¿½A, L.M.(1988). La frontera hispano-romana en la provincia
+		<BIBLIO> GARCIA MAÑA, L.M.(1988). La frontera hispano-romana en la provincia
 de Ourense, Boletin Auriense, Anexo 11, Museo Arqueoloxico Provincial,
 Ourense, 1988. </BIBLIO>
-		<BIBLIO> FONTES, L.(1992). Sï¿½tios e Achados Arqueolï¿½gicos do Concelho de
-Montalegre. Braga, 1992 (ediï¿½ï¿½o policopiada da CCRN - Porto). </BIBLIO>
+		<BIBLIO> FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

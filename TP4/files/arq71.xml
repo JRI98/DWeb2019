@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Miranda </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Miranda </LUGAR>
 		<FREGUE> Miranda </FREGUE>
 		<CONCEL> Arcos de Valdevez </CONCEL>
@@ -11,27 +12,27 @@
 		<LATITU> 540,7 </LATITU>
 		<LONGIT> 169,3 </LONGIT>
 		<ALTITU> 500m </ALTITU>
-		<ACESSO>Junto ï¿½ aldeia de Miranda. O acesso faz-se por estrada municipal, a partir
-da estrada nacional EN.303 (ligaï¿½ï¿½o Arcos de Valdevez - Paredes de Coura). O
-monumento nï¿½o estï¿½ sinalizado.</ACESSO>
+		<ACESSO>Junto à aldeia de Miranda. O acesso faz-se por estrada municipal, a partir
+da estrada nacional EN.303 (ligação Arcos de Valdevez - Paredes de Coura). O
+monumento não está sinalizado.</ACESSO>
 		<DESARQ>Na capela-mor da actual igreja paroquial de Miranda conserva-se parte da
-<LIGA TERMO="ï¿½bside"> ï¿½bside</LIGA>rectangular do templo <LIGA TERMO="romï¿½nico"> romï¿½nico</LIGA> que serviu o extinto mosteiro <LIGA TERMO="beneditino"> beneditino</LIGA> de Miranda, mosteiro que, coutado pelo
+<LIGA TERMO="ábside"> ábside</LIGA>rectangular do templo <LIGA TERMO="românico"> românico</LIGA> que serviu o extinto mosteiro <LIGA TERMO="beneditino"> beneditino</LIGA> de Miranda, mosteiro que, coutado pelo
 rei Sancho I em 1207 e posteriormente beneficiado por Afonso II e Afonso
-III, encontraria na exploraï¿½ï¿½o pastoril das amplas pastagens planï¿½lticas do
-territï¿½rio envolvente a principal razï¿½o econï¿½mica da sua implantaï¿½ï¿½o. Da
-edificaï¿½ï¿½o medieval da igreja deste mosteiro, profundamente alterada por
-sucessivas remodelaï¿½ï¿½es, restam alguns troï¿½os de cachorradas com <LIGA TERMO="modilhï¿½o"> modilhï¿½es</LIGA> lisos, sugerindo uma cronologia em torno
-da primeira metade do sï¿½culo XIII.</DESARQ>
-		<INTERP>Igreja de fundaï¿½ï¿½o baixo-medieval.</INTERP>
+III, encontraria na exploração pastoril das amplas pastagens planálticas do
+território envolvente a principal razão económica da sua implantação. Da
+edificação medieval da igreja deste mosteiro, profundamente alterada por
+sucessivas remodelações, restam alguns troços de cachorradas com <LIGA TERMO="modilhão"> modilhões</LIGA> lisos, sugerindo uma cronologia em torno
+da primeira metade do século XIII.</DESARQ>
+		<INTERP>Igreja de fundação baixo-medieval.</INTERP>
 		<INTERE>Embora razoavelmente conservados e apesar de interessarem ao estudo da
-difusï¿½o das arquitectura e decoraï¿½ï¿½o romï¿½nicas, os elementos descritos nï¿½o
-tï¿½m, no contexto regional, grande valor patrimonial nem revestem particular
-significado histï¿½rico. </INTERE>
-		<BIBLIO>ALMEIDA,C.A.F. (1978a) Arquitectura Romï¿½nica de Entre Douro e Minho, Tese de
+difusão das arquitectura e decoração românicas, os elementos descritos não
+têm, no contexto regional, grande valor patrimonial nem revestem particular
+significado histórico. </INTERE>
+		<BIBLIO>ALMEIDA,C.A.F. (1978a) Arquitectura Românica de Entre Douro e Minho, Tese de
 Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
 Porto, 1978. </BIBLIO>
 		<BIBLIO> ALMEIDA, C.A.F. (1987) Alto Minho, (novos guias de Portugal, 5),
-Editorial Presenï¿½a, Lisboa, 1987. </BIBLIO>
-		<AUTOR> Luï¿½s Fontes </AUTOR>
+Editorial Presença, Lisboa, 1987. </BIBLIO>
+		<AUTOR> Luís Fontes </AUTOR>
 		<DATA>04-FEV-1998</DATA>
 	</ARQELEM>

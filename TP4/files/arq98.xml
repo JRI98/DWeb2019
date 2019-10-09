@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> Misarela </IDENTI>
 		<DESCRI> Ponte </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> Misarela </LUGAR>
 		<FREGUE> Ferral </FREGUE>
 		<CONCEL> Montalegre </CONCEL>
@@ -11,38 +12,38 @@
 		<LATITU> 524,7 </LATITU>
 		<LONGIT> 209,4 </LONGIT>
 		<ALTITU> 314m </ALTITU>
-		<ACESSO>Cerca de 1 km para Sul de Sidrï¿½s o acesso faz-se a pï¿½ (cerca de 10 minutos),
-pelo antigo caminho medieval, a partir da aldeia de Sidrï¿½s. A esta acede-se
+		<ACESSO>Cerca de 1 km para Sul de Sidrós o acesso faz-se a pé (cerca de 10 minutos),
+pelo antigo caminho medieval, a partir da aldeia de Sidrós. A esta acede-se
 pela estrada EN 103-8, que liga Venda Nova a Cabril pela central
-hidroelï¿½ctrica de Vila Nova. O monumento estï¿½ sinalizado.</ACESSO>
-		<DESARQ>Ponte de tradiï¿½ï¿½o arquitectï¿½nica medieval, lanï¿½ada sobre o rio Rabagï¿½o numa
-garganta estreita e escarpada, servindo a antiga via de penetraï¿½ï¿½o no
-baixo-Barroso ao longo do vale do Cï¿½vado. Notï¿½vel pelas caracterï¿½sticas da
-sua implantaï¿½ï¿½o, chega a parecer uma construï¿½ï¿½o frï¿½gil, por contraste com o
-vigor dos relevos e vegetaï¿½ï¿½o exuberante que a envolvem. ï¿½ porï¿½m uma obra de
-excelente execuï¿½ï¿½o, solidamente assente nas paredes granï¿½ticas das margens.
-Tem um sï¿½<LIGA TERMO="arco"> arco</LIGA> de grande amplitude, quase de volta
+hidroeléctrica de Vila Nova. O monumento está sinalizado.</ACESSO>
+		<DESARQ>Ponte de tradição arquitectónica medieval, lançada sobre o rio Rabagão numa
+garganta estreita e escarpada, servindo a antiga via de penetração no
+baixo-Barroso ao longo do vale do Cávado. Notável pelas características da
+sua implantação, chega a parecer uma construção frágil, por contraste com o
+vigor dos relevos e vegetação exuberante que a envolvem. É porém uma obra de
+excelente execução, solidamente assente nas paredes graníticas das margens.
+Tem um só<LIGA TERMO="arco"> arco</LIGA> de grande amplitude, quase de volta
 perfeita, sem qualquer contrafortagem, apresentando no intradorso os
-encaixes do cimbre. O tabuleiro, em cavalete, com guarda pï¿½trea a juzante, ï¿½
+encaixes do cimbre. O tabuleiro, em cavalete, com guarda pétrea a juzante, é
 estreito e lajeado, desviando-se do alinhamento do<LIGA TERMO="arco">arco</LIGA> no topo Sudoeste. O aro do<LIGA TERMO="arco"> arco</LIGA>
 apresenta um <LIGA TERMO="aparelho"> aparelho</LIGA> de grande qualidade mas
 menos cuidado nos paramentos que suportam o tabuleiro sobre as margens.
-Podendo nï¿½o ser uma construï¿½ï¿½o cronologicamente medieval, revela
-caracterï¿½sticas tï¿½cnicas e formais dessa ï¿½poca, substituindo talvez uma
-ponte mais antiga que a via que por aï¿½ passava exigiria. Ao significado
-histï¿½rico (por aï¿½ retirou o marechal Soult em Maio de 1809, com combates
+Podendo não ser uma construção cronologicamente medieval, revela
+características técnicas e formais dessa época, substituindo talvez uma
+ponte mais antiga que a via que por aí passava exigiria. Ao significado
+histórico (por aí retirou o marechal Soult em Maio de 1809, com combates
 sangrentos na passagem da ponte), junta-se a espectacularidade da sua
-implantaï¿½ï¿½o, que lhe mereceu o epï¿½teto popular de "Ponte do Inferno". O
-monumento e a envolvï¿½ncia paisagï¿½stica apresentam-se muito bem
+implantação, que lhe mereceu o epíteto popular de "Ponte do Inferno". O
+monumento e a envolvência paisagística apresentam-se muito bem
 conservadas.</DESARQ>
-		<INTERP>Ponte de fundaï¿½ï¿½o medieval. </INTERP>
-		<INTERE>Para alï¿½m do inegï¿½vel valor patrimonial do monumento, a ponte da Misarela
-detem um inegï¿½vel significado histï¿½rico-cultural regional.
-Classificado, como Imï¿½vel de Interesse Pï¿½blico (Dec. 42007, de
+		<INTERP>Ponte de fundação medieval. </INTERP>
+		<INTERE>Para além do inegável valor patrimonial do monumento, a ponte da Misarela
+detem um inegável significado histórico-cultural regional.
+Classificado, como Imóvel de Interesse Público (Dec. 42007, de
 6-12-1958).</INTERE>
 		<BIBLIO>COSTA, J.G.(1968) Montalegre e Terras de Barroso. Montalegre, 1968.</BIBLIO>
-		<BIBLIO> FONTES, L.(1992). Sï¿½tios e Achados Arqueolï¿½gicos do Concelho de
-Montalegre. Braga, 1992 (ediï¿½ï¿½o policopiada da CCRN - Porto).
+		<BIBLIO> FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto).
 No vol. I do "Minho Pitoresco", publicado em 1887, publica-se uma gravura da
 Ponte da Mizarella desenhada por J. Almeida. </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>

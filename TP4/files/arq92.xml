@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="arq2html.xsl"?>
 <ARQELEM>
 		<TIPO ASSUNTO="arqueossitio"/>
 		<IDENTI> S. Paio </IDENTI>
 		<DESCRI> Igreja </DESCRI>
-		<CRONO> Idade Mï¿½dia</CRONO>
+		<CRONO> Idade Média</CRONO>
 		<LUGAR> S. Paio </LUGAR>
 		<FREGUE> S. Paio </FREGUE>
-		<CONCEL> Melgaï¿½o </CONCEL>
+		<CONCEL> Melgaço </CONCEL>
 		<CODADM> 160317 </CODADM>
 		<LATITU> 569,1 </LATITU>
 		<LONGIT> 189,1 </LONGIT>
 		<ALTITU> 292m </ALTITU>
-		<ACESSO>O acesso faz-se pela estrada municipal que liga ï¿½ estrada EN.202, na
-direcï¿½ï¿½o Melgaï¿½o - Castro Laboreiro. O monumento nï¿½o estï¿½ sinalizado.</ACESSO>
-		<DESARQ>Segundo vï¿½rios autores, S. Paio de Paderne foi, nos sï¿½culos centrais da
-Idade Mï¿½dia, sede de um mosteiro, ao qual estava subordinado um vasto
-territï¿½rio. Na segunda metade do sï¿½culo XII, na sequï¿½ncia da expansï¿½o do
+		<ACESSO>O acesso faz-se pela estrada municipal que liga à estrada EN.202, na
+direcção Melgaço - Castro Laboreiro. O monumento não está sinalizado.</ACESSO>
+		<DESARQ>Segundo vários autores, S. Paio de Paderne foi, nos séculos centrais da
+Idade Média, sede de um mosteiro, ao qual estava subordinado um vasto
+território. Na segunda metade do século XII, na sequência da expansão do
 novo mosteiro de S. Salvador de Paderne, que foi dotado com parte do
-territï¿½rio de S. Paio, este deve ter-se extinguido. O desmembramento estava
-jï¿½ concretizado e consolidada a nova organizaï¿½ï¿½o em 1258, pois a essa data,
-de acordo com as Inquiriï¿½ï¿½es de Afonso III, S. Paio de Paderne jï¿½ nï¿½o era
-mosteiro e integrava o couto da vila de Melgaï¿½o. Talvez date dessa ï¿½poca a
-edificaï¿½ï¿½o romï¿½nica da igreja paroquial de S. Paio, edifï¿½cio do qual
-praticamente nada chegou aos nossos dias. As diversas reconstruï¿½ï¿½es e
-ampliaï¿½ï¿½es, reaproveitando embora toda a excelente <LIGA TERMO="silhar">silharia</LIGA> (siglada) da antiga edificaï¿½ï¿½o, acabaram por deixar apenas,
+território de S. Paio, este deve ter-se extinguido. O desmembramento estava
+já concretizado e consolidada a nova organização em 1258, pois a essa data,
+de acordo com as Inquirições de Afonso III, S. Paio de Paderne já não era
+mosteiro e integrava o couto da vila de Melgaço. Talvez date dessa época a
+edificação românica da igreja paroquial de S. Paio, edifício do qual
+praticamente nada chegou aos nossos dias. As diversas reconstruções e
+ampliações, reaproveitando embora toda a excelente <LIGA TERMO="silhar">silharia</LIGA> (siglada) da antiga edificação, acabaram por deixar apenas,
 fechadas na parede Sul, uma <LIGA TERMO="fresta"> fresta</LIGA> e um portal
 lateral, ambos de volta perfeita.</DESARQ>
-		<INTERP>Igreja de fundaï¿½ï¿½o medieval, muito alterada.</INTERP>
+		<INTERP>Igreja de fundação medieval, muito alterada.</INTERP>
 		<INTERE>Os elementos descritos, por escassos e arquitectonicamente pouco
-interessantes nï¿½o tï¿½m, nos contextos local e regional, grande valor
-patrimonial nem revestem particular significado histï¿½rico.</INTERE>
-		<BIBLIO>ALMEIDA C.A.F.(1978) Arquitectura Romï¿½nica de Entre Douro e Minho, Tese de
+interessantes não têm, nos contextos local e regional, grande valor
+patrimonial nem revestem particular significado histórico.</INTERE>
+		<BIBLIO>ALMEIDA C.A.F.(1978) Arquitectura Românica de Entre Douro e Minho, Tese de
 Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
 Porto, 1978. </BIBLIO>
 		<AUTOR> Luis Fontes </AUTOR>
