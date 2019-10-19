@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pr>
+    <metadata>
+        <keyname>TP5</keyname>
+        <title>Desenvolvimento de Servidores em Node.js</title>
+        <subtitle>Trabalho prático 5 dos TPC de Desenvolvimento de Aplicações Web</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+        <bdate>15/10/2019</bdate>
+        <edate>22/10/2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>JRI</identifier>
+            <name>João Ribeiro Imperadeiro</name>
+            <email>pg41080@alunos.uminho.pt</email>
+            <git>https://github.com/JRI98</git>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho consistiu no desenvolvimento de um servidor em
+            <i>Node.js</i>
+            capaz de manter uma lista de tarefas. Para isso, a lista é persistida no servidor sob a forma de um ficheiro no formato
+            <i>JSON</i>
+            , permitindo a sua consulta e a adição de novas tarefas à mesma.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">Project Record deste TPC</deliverable>
+        <deliverable path="pr.html">Versão HTML do Project Record deste TPC</deliverable>
+        <deliverable path="server.js">Servidor em Node.js - Gestor da Lista de Tarefas</deliverable>
+        <deliverable path="stylesheets/">Folhas de Estilo em CSS</deliverable>
+        <deliverable path="templates/">Templates das Páginas HTML em Pug</deliverable>
+    </deliverables>
+</pr>
