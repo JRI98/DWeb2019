@@ -1,0 +1,19 @@
+extends layout
+
+block content
+    .w3-container.w3-section
+        .w3-card-4
+            header.w3-container.w3-light-blue
+                h3 Adicionar Elemento
+            form.w3-container(action="/arq/new" method="POST")
+                input.w3-input.w3-border.w3-section.w3-light-grey(type="text" name="prov" placeholder="Província")
+                input.w3-input.w3-border.w3-section.w3-light-grey(type="text" name="local" placeholder="Local")
+                input.w3-input.w3-border.w3-section.w3-light-grey(type="text" name="tit" placeholder="Título")
+                input.w3-input.w3-border.w3-section.w3-light-grey(type="text" name="musico" placeholder="Músico")
+                input.w3-input.w3-border.w3-section.w3-light-grey(type="time" name="duracao" placeholder="Duração")
+                input.w3-btn.w3-circle.w3-border.w3-margin-bottom.w3-right.w3-blue-grey(type="submit" value="Criar")
+
+        .w3-container.w3-light-blue
+            footer.w3-container
+                p
+                    a(href="/") Voltar à página principal

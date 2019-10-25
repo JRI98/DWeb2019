@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pr>
+    <metadata>
+        <keyname>TP6</keyname>
+        <title>Servidores em Node.js com Express</title>
+        <subtitle>Trabalho prático 6 dos TPC de Desenvolvimento de Aplicações Web</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+        <bdate>22/10/2019</bdate>
+        <edate>29/10/2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>JRI</identifier>
+            <name>João Ribeiro Imperadeiro</name>
+            <email>pg41080@alunos.uminho.pt</email>
+            <git>https://github.com/JRI98</git>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho consistiu no desenvolvimento de um servidor em
+            <i>Node.js</i>
+            capaz de manter a o arquivo sonoro. Para isso, a lista é persistida no servidor sob a forma de um ficheiro no formato
+            <i>JSON</i>
+            , permitindo a consulta de toda a informação e ainda, seguindo a filosofia CRUD:
+        </p>
+        <p>
+            <b>1-</b>
+            a criação de novos elementos do arquivo sonoro;
+        </p>
+        <p>
+            <b>2-</b>
+            a consulta de um elemento do arquivo sonoro;
+        </p>
+        <p>
+            <b>3-</b>
+            a atualização de um elemento do arquivo sonoro,
+        </p>
+        <p>
+            <b>4-</b>
+            a eliminação de um elemento do arquivo sonoro.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">Project Record deste TPC</deliverable>
+        <deliverable path="pr.html">Versão HTML do Project Record deste TPC</deliverable>
+        <deliverable path="app.js">Servidor em Node.js - Arquivo Sonoro</deliverable>
+        <deliverable path="bin/www">Ficheiro para Executar o Servidor</deliverable>
+        <deliverable path="public/images/">Imagens do Cliente</deliverable>
+        <deliverable path="public/javascripts/">Ficheiros Javascript do Cliente</deliverable>
+        <deliverable path="public/stylesheets/">Folhas de Estilo do Cliente em CSS</deliverable>
+        <deliverable path="views/">Templates das Páginas HTML</deliverable>
+        <deliverable path="arq-son-EVO.json">Arquivo Sonoro - Base de Dados</deliverable>
+    </deliverables>
+</pr>
