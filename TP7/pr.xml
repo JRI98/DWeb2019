@@ -32,8 +32,8 @@
             <u>2ª</u>
             Criar um servidor em
             <i>Node.js</i>
-            que disponibilize os documentos referentes a uma base de dados dos filmes criados desde 1990, dispnonível
-            <a href="http://www4.di.uminho.pt/~jcr/datasets/movies.json">aqui</a>
+            que disponibilize os documentos referentes a uma base de dados dos filmes criados desde 1990, disponível
+            <xref url="http://www4.di.uminho.pt/~jcr/datasets/movies.json">aqui</xref>
             . Para isso, as seguintes operações deviam ser possíveis:
         </p>
         <p>
