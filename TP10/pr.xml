@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pr>
+    <metadata>
+        <keyname>TP10</keyname>
+        <title>Desenvolvimento de um Servidor de Ficheiros em Node.js</title>
+        <subtitle>Trabalho prático 10 dos TPC de Desenvolvimento de Aplicações Web</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+        <bdate>19/10/2019</bdate>
+        <edate>26/10/2019</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>JRI</identifier>
+            <name>João Ribeiro Imperadeiro</name>
+            <email>pg41080@alunos.uminho.pt</email>
+            <git>https://github.com/JRI98</git>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Este trabalho consistiu no desenvolvimento de um servidor de ficheiros em NodeJS.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">Project Record deste TPC</deliverable>
+        <deliverable path="pr.html">Versão HTML do Project Record deste TPC</deliverable>
+        <deliverable path="app.js">Servidor em Node.js - Arquivo de Prémios Nobel</deliverable>
+        <deliverable path="bin/www">Ficheiro para Executar o Servidor</deliverable>
+        <deliverable path="public/images/">Imagens do Cliente</deliverable>
+        <deliverable path="public/javascripts/">Ficheiros Javascript do Cliente</deliverable>
+        <deliverable path="public/stylesheets/">Folhas de Estilo do Cliente em CSS</deliverable>
+        <deliverable path="views/">Templates das Páginas HTML</deliverable>
+        <deliverable path="controllers/">Funções de Interação com a Base de Dados</deliverable>
+        <deliverable path="models/">Modelos dos Documentos da Base de Dados</deliverable>
+    </deliverables>
+</pr>
