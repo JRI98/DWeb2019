@@ -1,0 +1,23 @@
+extends layout
+
+block content
+    .w3-container.w3-section
+        .w3-card-4
+            header.w3-container.w3-light-blue
+                h3.w3-left CLAV: Classificação e Avaliação da Informação Pública
+
+            .w3-container
+                p.w3-section A CLAV é uma Plataforma desenvolvida pela Direção-Geral do Livro, dos Arquivos e das Bibliotecas, que disponibiliza a “Lista Consolidada para a classificação e avaliação da informação pública” enquanto instrumento facilitador da elaboração dos planos de classificação e tabelas de seleção da Administração Pública, de empresas públicas e de outras entidades.
+
+            .w3-container
+                table.w3-table-all.w3-section
+                    tr
+                        th Sigla
+                        th Designação
+                        th Operações
+                    each e in entidades
+                        tr(onclick="window.location.assign('/entidades/" + e.id + "')")
+                            td= e.sigla
+                            td= e.designacao
+                            td
+                                button.w3-btn.w3-circle.w3-blue-grey(onclick="window.location.assign('/entidades/" + e.id + "')") Consultar
