@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pr>
+    <metadata>
+        <keyname>teste</keyname>
+        <title>Teste de Avaliação de DAW</title>
+        <subtitle>Teste de Avaliação de Desenvolvimento de Aplicações Web</subtitle>
+        <supervisor homepage="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+        <bdate>16/01/2020</bdate>
+        <edate>16/01/2020</edate>
+    </metadata>
+    <workteam>
+        <worker>
+            <identifier>JRI</identifier>
+            <name>João Ribeiro Imperadeiro</name>
+            <email>pg41080@alunos.uminho.pt</email>
+            <git>https://github.com/JRI98</git>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+            Este teste consistiu na resolução de dois exercícios distintos: numa primeira parte, desenvolver uma API de dados para o Arquivo de Música Digital; numa segunda parte, desenvolver uma interface para a plataforma CLAV.
+        </p>
+        <p>
+            <b>Exercício 1</b>
+            Neste exercício, pretendia-se que fosse desenvolvida uma API para consultar diversas informações sobre os dados presentes <xref url="http://www4.di.uminho.pt/~jcr/Transfers/datasets/arquivo-musica-digital.xml">aqui</xref>.
+            Antes de iniciar o exercício, o dataset disponibilizado em XML foi convertido para o formato JSON, utilizando <xref url="https://codebeautify.org/xmltojson">este</xref> website.
+            De seguida, foram removidos alguns dos campos que o conversor criou desnecessariamente (surgindo o ficheiro <i>arquivoMusica.json</i> disponibilizado no código) e os dados foram importados para o <i>MongoDB</i> utilizando o comando <p><i>mongoimport --db teste --collection obras --file arquivoMusica.json --jsonArray</i>.</p>
+            Por fim, foram desenvolvidas todas as rotas necessárias para responder às <i>queries</i> solicitadas (assume-se que o servidor MongoDB está a correr na porta 27017, com os dados inseridos).
+        </p>
+        <p>
+            <b>Exercício 2</b>
+            Neste exercício, pretendia-se que fosse desenvolvida uma interface para visualizar a informação disponibilizada pela API da plataforma <xref url="http://clav.dglab.gov.pt/">CLAV</xref> (Classificação e Avaliação da Informação Pública).
+            Para além disto, era pedido que fossem efetuadas algumas <i>queries</i> sobre esta mesma API.
+            Assim, são apresentadas abaixo as respostas às queries efetuadas:
+            <p>
+                <b>1)</b>
+                <i>546</i>;
+            </p>
+            <p>
+                <b>2)</b>
+                <i>Administração Pública</i> e <i>Autoridades de supervisão e fiscalização</i>; 
+            </p>
+            <p>
+                <b>3)</b>
+                <i>400.10.056 - Registo nacional de condutores</i>;
+            </p>
+            <p>
+                <b>4)</b>
+                <i>750.20.601 - Realização de atividades de formação e treino animal</i>.
+            </p>
+            De seguida, foi desenvolvida a interface pedida utilizando o <i>Nodejs</i> e o <i>PUG</i>.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="pr.xml">Project Record do Teste</deliverable>
+        <deliverable path="pr.html">Versão HTML do Project Record do Ts«este</deliverable>
+        <deliverable path="Parte1">Resposta à Parte 1 do teste</deliverable>
+        <deliverable path="Parte2">Resposta à Parte 2 do teste</deliverable>
+    </deliverables>
+</pr>
